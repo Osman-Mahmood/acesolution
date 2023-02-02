@@ -1,0 +1,240 @@
+.text-decoration-none {
+  text-decoration: none !important;
+}
+.btn-close{
+  color: #324894 !important;
+  box-shadow: none !important;
+}
+.actech-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center !important;
+  position: fixed;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  padding: 10px 50px;
+}
+
+.actech-nav-scroll {
+  display: flex;
+  justify-content: space-between;
+  align-items: center !important;
+  position: fixed;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  padding: 10px 50px;
+  background-color: white;
+  box-shadow: 0px 4px 4px rgb(0 0 0 / 8%);
+  z-index: 100;
+}
+
+.actech-nav ul li {
+  background-color: transparent;
+}
+
+.btn-book {
+  background-color: white !important;
+  color: black !important;
+  box-shadow: inset;
+  height: 40px;
+  width: 150px;
+  box-shadow: none !important;
+}
+
+.btn-book-scroll {
+  background-color: #324894 !important;
+  color: white !important;
+  box-shadow: inset;
+  height: 40px;
+  width: 150px;
+  box-shadow: none !important;
+}
+
+
+.link-active {
+  border-bottom: 3px solid white;
+}
+
+.text-blue {
+  color: #324894;
+  font-size: 16px;
+}
+
+.list-style-none {
+  list-style: none;
+}
+
+.link-active-dark {
+  border-bottom: 3px solid #324894;
+}
+
+.link-hover-dark:after {
+  content: "";
+  display: block;
+  height: 3px;
+  width: 0px;
+  background: transparent;
+  transition: width 0.5s ease, background-color 0.5s ease;
+}
+.link-hover-dark:hover:after {
+  width: 100%;
+  background: #324894;
+}
+
+.link-hover:after {
+  content: "";
+  display: block;
+  height: 3px;
+  width: 0px;
+  background: transparent;
+  transition: width 0.5s ease, background-color 0.5s ease;
+}
+.link-hover:hover:after {
+  width: 100%;
+  background: white;
+}
+
+.background-image {
+  background-image: url("../../assets/images/bg-min.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 220px 0px;
+}
+
+.main-heading {
+  color: white;
+  font-size: 62px;
+}
+
+.btn-menue {
+  display: none !important;
+  font-size: 20px !important;
+  box-shadow: none !important;
+}
+
+.nav-responsive-link {
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.list-responsive {
+  text-align: center;
+  margin-bottom: 34px;
+  margin-top: 23px;
+
+}
+
+.list-styles {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.menue-bars {
+  right: 0;
+  left: 0;
+  margin: 0 auto;
+  display: block;
+  width: 30px;
+  height: 30px;
+  transform: rotate(-180deg);
+  transition: 0.3s ease transform;
+  cursor: pointer;
+}
+
+.menue-bars-responsive {
+  right: 0;
+  left: 0;
+  margin: 0 auto;
+  display: block;
+  width: 30px;
+  height: 30px;
+  transform: rotate(180deg);
+  transition: 0.3s ease transform;
+  cursor: pointer;
+}
+
+.menue-bars div {
+  width: 6px;
+  height: 5px;
+  background-color: white;
+  margin-left: 0;
+  margin-bottom: 6px;
+  border-radius: 3px;
+  transition: 0.3s ease width, 0.3s ease margin-left, 0.3s ease margin-bottom,
+    0.3s ease background-color;
+}
+
+.menue-bars-responsive div {
+  width: 6px;
+  height: 5px;
+  background-color: #324894;
+  margin-left: 0;
+  margin-bottom: 6px;
+  border-radius: 3px;
+  transition: 0.3s ease width, 0.3s ease margin-left, 0.3s ease margin-bottom,
+    0.3s ease background-color;
+}
+
+.menue-bars div:first-child,
+.menue-bars-responsive div:first-child {
+  width: 10px;
+}
+
+.menue-bars div:nth-child(2),
+.menue-bars-responsive div:nth-child(2) {
+  width: 18px;
+}
+
+.menue-bars div:last-child,
+.menue-bars-responsive div:last-child {
+  width: 30px;
+  margin-bottom: 0;
+}
+
+@media screen and (max-width: 1200px) {
+  .main-heading {
+    font-size: 52px;
+  }
+  .list-styles {
+    margin-left: 6px;
+    margin-right: 6px;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .display-none {
+    display: none !important;
+  }
+
+  .btn-menue {
+    display: block !important;
+  }
+
+  .main-heading {
+    font-size: 52px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .main-heading {
+    font-size: 42px;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .main-heading {
+    font-size: 42px;
+  }
+  .actech-nav {
+    padding: 10px 30px !important;
+  }
+  .actech-nav-scroll {
+    padding: 10px 30px !important;
+  }
+  .main-heading {
+    font-size: 32px;
+  }
+}

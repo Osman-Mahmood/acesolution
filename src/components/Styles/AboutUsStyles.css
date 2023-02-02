@@ -1,0 +1,54 @@
+.img {
+  background-image: url("https://zaptatech.com/public/assets/images/About-sec1.png");
+  width: 100%;
+  background-repeat: no-repeat;
+  justify-content: center;
+  opacity: 1;
+  background-position: center;
+  background-size: cover;
+  /* height: 450px; */
+}
+
+.mission {
+  font-size: 27px;
+  color: black;
+  font-weight: 500;
+}
+
+.visson {
+  font-size: 48px;
+}
+
+/* p {
+  font-size: 22px !important;
+} */
+
+.what {
+  font-size: 48px !important;
+}
+
+.card.whatwedo-card {
+  background: #ffffff;
+  box-shadow: 0px 0px 4px rgb(0 0 0 / 25%) !important;
+  border-radius: 20px;
+  padding: 40px 22px;
+  z-index: -1;
+}
+
+.card-title.whatwedo-title {
+  font-size: 22px;
+  line-height: 134.34%;
+  font-weight: bold;
+}
+
+.card-text.whatwedo-text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 134.34%;
+  color: #000000;
+}
+
+.padding-top {
+  padding-top: 50px;
+}

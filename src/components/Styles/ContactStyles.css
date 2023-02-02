@@ -1,0 +1,77 @@
+.list-group.ace-career {
+  background: #ffffff;
+  box-shadow: 0px 0px 4px rgb(73 113 255 / 15%);
+  border-radius: 10px;
+  border: none !important;
+}
+
+.list-group-item.job-item {
+  padding: 32px 34px 32px 34px;
+  border: none;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+.list-group-item {
+  border: none !important;
+  font-weight: 500 !important;
+  font-size: 16px;
+  line-height: 140.2%;
+  color: #333333 !important;
+}
+
+.list-group {
+  display: flex;
+  flex-direction: column;
+  padding-left: 0;
+  margin-bottom: 0;
+  border-radius: 0.25rem;
+}
+
+.list-group-item:first-child {
+  border-top-left-radius: inherit;
+  border-top-right-radius: inherit;
+}
+
+.btn.ace-career-btn {
+  width: 108px;
+}
+
+._mt-5 {
+  margin-top: -5px;
+}
+
+.ps-3 {
+  padding-left: 1rem !important;
+}
+
+.ps-40 {
+  padding-left: 40px;
+}
+
+@media only screen and (max-width: 600px) {
+  #job-details {
+    display: block !important;
+  }
+  .ps-40.car-left {
+    padding-left: 0px !important;
+  }
+  .ps-40 {
+    padding-left: 0px !important;
+  }
+  .ps-40-res {
+    padding-left: 20px !important;
+  }
+}
+
+@media (min-width: 576px) {
+  .col-sm-12 {
+    flex: 0 0 auto;
+    width: 100%;
+  }
+}
+
+@media (max-width: 400px) {
+  .ps-40-res {
+    padding-left: 10px !important;
+  }
+}

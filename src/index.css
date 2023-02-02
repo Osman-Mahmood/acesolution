@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+h3,h5{
+  color: #324894 !important;
+}
+@media screen and (max-width: 640px){
+
+  p{
+    font-size: 12px !important;
+  }
+}
+

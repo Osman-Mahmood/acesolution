@@ -1,0 +1,72 @@
+.services-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.services-card {
+  min-width: 280px !important;
+  max-width: 270px !important;
+  margin-bottom: 10px;
+}
+
+.back {
+  height: 538px;
+  background-image: url("https://zaptatech.com/public/assets/images/tech-writing.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.web_back{
+  height: 538px;
+  background-image: url("https://zaptatech.com/public/assets/images/web-sec1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.mob_back{
+  height: 538px;
+  background-image: url("https://zaptatech.com/public/assets/images/mob-sec1-bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.sqa_back{
+  height: 538px;
+  background-image: url("https://zaptatech.com/public/assets/images/quality.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.busi_back{
+  height: 538px;
+  background-image: url("https://zaptatech.com/public/assets/images/business-intelligence.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.word_back{
+  height: 538px;
+  background-image: url("https://zaptatech.com/public/assets/images/wordpress-dev.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.uiux_back{
+  height: 538px;
+  background-image: url("https://zaptatech.com/public/assets/images/mob-sec1-bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.card.quality-assureance-tools {
+  background: #ffffff;
+  box-shadow: 0px 0px 4px rgb(0 0 0 / 10%);
+  border-radius: 20px;
+  height: 198px !important;
+}
+.text-sect-we-are {
+  text-align: center;
+  font-weight: 700;
+  font-size: 36px;
+  color: #fff;
+}
+.card.tools-tech {
+  background: #ffffff;
+  box-shadow: 0px 0px 4px rgb(0 0 0 / 10%);
+  border-radius: 20px;
+  height: 198px !important;
+}
