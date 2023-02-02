@@ -1,7 +1,28 @@
-import React from "react";
+import React, { useState } from "react";
 import "./ContactStyle.css";
+import axios from "axios"
 
 const ContactForm = () => {
+  const [name, setName] = useState("");
+  const [email, setEmail] = useState("");
+  const [message, setMessage] = useState("");
+
+  const handleContactForm = async (event) => {
+    event.preventDefault();
+    try {
+      const response = await axios.post("https://real-blue-snail-cuff.cyclic.app/ContactForm", {
+          name: name,
+          email: email,
+          message: message
+        })
+        if(response) {
+          console.log(response, "==================>>>>")
+        }
+    } catch (error) {
+      console.log(error)
+    } 
+  }
+
   return (
     <div className="container-fluid p-lg-5 p-md-5 p-sm-5 py-5 main">
       <div className="row" id="Call_book">
@@ -79,7 +100,7 @@ const ContactForm = () => {
 
             <div className="col-md-6 mt-5" id="Booking-form">
               <div className="fdms-5">
-                <form className="row g-3 needs-validation">
+                <form className="row g-3 needs-validation" onSubmit={(event) => handleContactForm(event)}>
                   <div className="col-md-6">
                     <label
                       htmlFor="First-Name"
@@ -95,6 +116,7 @@ const ContactForm = () => {
                       id="First-Name"
                       required
                       name="name"
+                      onChange={(event) => setName(event.target.value)}
                     />
                     <div className="invalid-feedback">
                       {" "}
@@ -116,6 +138,7 @@ const ContactForm = () => {
                       required=""
                       name="email"
                       pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$"
+                      onChange={(event) => setEmail(event.target.value)}
                     />
                     <div className="invalid-feedback">
                       {" "}
@@ -137,6 +160,7 @@ const ContactForm = () => {
                         rows="5"
                         required=""
                         name="message"
+                      onChange={(event) => setMessage(event.target.value)}
                       ></textarea>
                       <div className="invalid-feedback">
                         {" "}

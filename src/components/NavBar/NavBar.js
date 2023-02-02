@@ -107,7 +107,7 @@ const NavBar = () => {
         <button
           className="btn btn-menue transform-icon"
           data-bs-toggle="offcanvas"
-          href="#offcanvasExample"
+          href="/offcanvasExample"
           aria-controls="offcanvasExample"
           onClick={() => setNavShow(!navShow)}
         >

@@ -10,7 +10,6 @@ import Career from "./pages/Career";
 import Footer from "./components/Footer/Footer";
 import ReadMore from "./pages/ReadMore";
 import LearnMore from "./pages/LearnMore";
-import { useEffect } from "react";
 
 function App() {
   return (

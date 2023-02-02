@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import { useDispatch } from "react-redux/es";
 import { useParams } from "react-router-dom";
 import { mySliceActions } from "../store/Slice";
@@ -14,7 +14,7 @@ const LearnMore = () => {
 
   useEffect(() => {
     dispatch(mySliceActions.handleLearnMore());
-  }, [LearnMore]);
+  }, [LearnMore, dispatch]);
 
   return (
     <React.Fragment>

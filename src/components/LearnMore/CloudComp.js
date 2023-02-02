@@ -42,7 +42,7 @@ function CloudComp() {
                 <div className="col-sm-6">
                     <div className="pb-4">
                         <h2 className="">Big Data</h2>
-                        <a className="text-muted text-primary text-decoration-none" href="#">BIG DATA Useability</a>
+                        <a className="text-muted text-primary text-decoration-none" href="/">BIG DATA Useability</a>
                     </div>
                     <p className="">Big data created by the Internet, IoT devices, and other technology is
                         quickly expanding and has gained greater attention in recent years, associated with the rapid
@@ -54,7 +54,7 @@ function CloudComp() {
                         to expose trends and allow stakeholders to make intelligent decisions</p>
                     <div className="pt-5">
                         <h6 className="text-dark">Related Case Study:</h6>
-                        <a href="#" className="text-primary text-decoration-none">BIG Data Explained</a>
+                        <a href="/" className="text-primary text-decoration-none">BIG Data Explained</a>
                     </div>
                 </div>
                 <div className="col-sm-6">
@@ -71,7 +71,7 @@ function CloudComp() {
                     <div className="card edu_cards text-center h-100">
                         <div className="card-body">
                             <img className="center pb-3" src="https://zaptatech.com/public/assets/images/BD1.svg" width="77" height="77" alt="ZAPTA Technologies: Image processing in Big Data" />
-                            <a href="#" className="text-primary text-decoration-none card_sub_text">Images</a>
+                            <a href="/" className="text-primary text-decoration-none card_sub_text">Images</a>
                             <p className="card-text pt-3">Image processing in Big Data</p>
                         </div>
                     </div>
@@ -82,7 +82,7 @@ function CloudComp() {
                         <div className="card-body">
                             <img className="center pb-3" src="https://zaptatech.com/public/assets/images/BD2.svg" width="77" height="77" alt="ZAPTA Technologies: Video related processing in Big Data" />
 
-                            <a href="#" className="text-primary text-decoration-none card_sub_text">Movies</a>
+                            <a href="/" className="text-primary text-decoration-none card_sub_text">Movies</a>
                             <p className="card-text pt-3">Video related processing in Big Data</p>
                         </div>
                     </div>
@@ -94,7 +94,7 @@ function CloudComp() {
                         <div className="card-body">
                             <img className="center pb-3" src="https://zaptatech.com/public/assets/images/BD3.svg" width="77" height="77" alt="ZAPTA Technologies: Audio related processing in Big Data" />
 
-                            <a href="#" className="text-primary text-decoration-none card_sub_text">Music</a>
+                            <a href="/" className="text-primary text-decoration-none card_sub_text">Music</a>
                             <p className="card-text pt-3">Audio related processing in Big Data</p>
                         </div>
                     </div>
@@ -106,7 +106,7 @@ function CloudComp() {
                         <div className="card-body">
                             <img className="center pb-3" src="https://zaptatech.com/public/assets/images/BDtext.svg" width="77" height="77" alt="ZAPTA Technologies: Text related processing in Big Data" />
 
-                            <a href="#" className="text-primary text-decoration-none card_sub_text">Text</a>
+                            <a href="/" className="text-primary text-decoration-none card_sub_text">Text</a>
                             <p className="card-text pt-3">Text related processing in Big Data</p>
                         </div>
                     </div>
@@ -120,7 +120,7 @@ function CloudComp() {
                         <div className="card-body">
                             <img className="center pb-3" src="https://zaptatech.com/public/assets/images/BD4.svg" width="77" height="77" alt="ZAPTA Technologies: Spatio-Temportal Data Processing" />
 
-                            <a href="#" className="text-primary text-decoration-none card_sub_text">Spatio-Temporal Data</a>
+                            <a href="/" className="text-primary text-decoration-none card_sub_text">Spatio-Temporal Data</a>
                             <p className="card-text pt-3">Spatio-Temportal Data Processing</p>
                         </div>
                     </div>
@@ -132,7 +132,7 @@ function CloudComp() {
                         <div className="card-body">
                             <img className="center pb-3" src="https://zaptatech.com/public/assets/images/BD5.svg" width="77" height="77" alt="ZAPTA Technologies: Wireless Communication Data Processing" />
 
-                            <a href="#" className="text-primary text-decoration-none card_sub_text">Wireless Communication
+                            <a href="/" className="text-primary text-decoration-none card_sub_text">Wireless Communication
                                 Data</a>
                             <p className="card-text pt-3">Wireless Communication Data Processing</p>
                         </div>
@@ -149,7 +149,7 @@ function CloudComp() {
                 <div className="col-sm-6">
                     <div className="pb-4">
                         <h2 className="">Data Science</h2>
-                        <a className="text-muted text-primary text-decoration-none" href="#">Data Science</a>
+                        <a className="text-muted text-primary text-decoration-none" href="/">Data Science</a>
                     </div>
                     <p className="">Make use of big data analytics to create tailored investing strategies. Our
                         data specialists have just the right tools, expertise and skills in mining data and developing
@@ -163,7 +163,7 @@ function CloudComp() {
                         tailored financial goods and services.</p>
                     <div className="pt-5">
                         <h6 className="text-dark">Related Case Study:</h6>
-                        <a href="#" className="text-primary text-decoration-none">Data Science</a>
+                        <a href="/" className="text-primary text-decoration-none">Data Science</a>
                     </div>
                 </div>
             </div>
@@ -178,7 +178,7 @@ function CloudComp() {
                         <div className="card-body">
                             <img className="center pb-3" src="https://zaptatech.com/public/assets/images/DS1.svg" width="77" height="77" alt="ZAPTA Technologies:Amazon AWS" />
 
-                            <a href="#" className="text-primary text-decoration-none card_sub_text">Amazon AWS</a>
+                            <a href="/" className="text-primary text-decoration-none card_sub_text">Amazon AWS</a>
                          
                         </div>
                     </div>
@@ -190,7 +190,7 @@ function CloudComp() {
                         <div className="card-body">
                             <img className="center pb-3" src="https://zaptatech.com/public/assets/images/DS2.svg" width="77" height="77" alt="ZAPTA Technologies: Python Development" />
 
-                            <a href="#" className="text-primary text-decoration-none card_sub_text">Python</a>
+                            <a href="/" className="text-primary text-decoration-none card_sub_text">Python</a>
                            
                         </div>
                     </div>
@@ -202,7 +202,7 @@ function CloudComp() {
                         <div className="card-body">
                             <img className="center pb-3" src="https://zaptatech.com/public/assets/images/DS3.svg" width="77" height="77" alt="ZAPTA Technologies: Node JS Development" />
 
-                            <a href="#" className="text-primary text-decoration-none card_sub_text">Node JS</a>
+                            <a href="/" className="text-primary text-decoration-none card_sub_text">Node JS</a>
                            
                         </div>
                     </div>
@@ -214,7 +214,7 @@ function CloudComp() {
                         <div className="card-body">
                             <img className="center pb-3" src="https://zaptatech.com/public/assets/images/DS4.svg" width="77" height="77" alt="ZAPTA Technologies: Git &amp; Github training and services" />
 
-                            <a href="#" className="text-primary text-decoration-none card_sub_text">Git &amp; Github</a>
+                            <a href="/" className="text-primary text-decoration-none card_sub_text">Git &amp; Github</a>
                         
                         </div>
                     </div>
@@ -226,7 +226,7 @@ function CloudComp() {
                 <div className="col-sm-6">
                     <div className="pb-4">
                         <h2 className="">Data Analytics</h2>
-                        <a className="text-muted text-primary text-decoration-none" href="#">Data Analytics</a>
+                        <a className="text-muted text-primary text-decoration-none" href="/">Data Analytics</a>
                     </div>
                     <p className="">Data is a valuable company resource. Our data consulting specialists will use
                         your data to help you get business insights, automate processes, and innovate. Data is being
@@ -236,7 +236,7 @@ function CloudComp() {
                         you a competitive advantage if you go beyond the limits of standard business intelligence.</p>
                     <div className="pt-5">
                         <h6 className="text-dark">Related Case Study:</h6>
-                        <a href="#" className="text-primary text-decoration-none">RegTech Explained</a>
+                        <a href="/" className="text-primary text-decoration-none">RegTech Explained</a>
                     </div>
                 </div>
              
@@ -257,7 +257,7 @@ function CloudComp() {
                             <img className="center pb-3" src="https://zaptatech.com/public/assets/images/DAN1.svg" width="77" height="77" alt="ZAPTA Technologies: ta Mining &amp;
                                 Scraping" />
 
-                            <a href="#" className="text-primary text-decoration-none card_sub_text">Data Mining &amp;
+                            <a href="/" className="text-primary text-decoration-none card_sub_text">Data Mining &amp;
                                 Scraping</a>
                             <p className="card-text pt-3">Data Mining &amp; Scraping Feature</p>
                         </div>
@@ -270,7 +270,7 @@ function CloudComp() {
                         <div className="card-body">
                             <img className="center pb-3" src="https://zaptatech.com/public/assets/images/DAN2.svg" width="77" height="77" alt="ZAPTA Technologies: Data Processing" />
 
-                            <a href="#" className="text-primary text-decoration-none card_sub_text">Data Processing</a>
+                            <a href="/" className="text-primary text-decoration-none card_sub_text">Data Processing</a>
                             <p className="card-text pt-3">Processing of Varaible Data Samples</p>
                         </div>
                     </div>
@@ -282,7 +282,7 @@ function CloudComp() {
                         <div className="card-body">
                             <img className="center pb-3" src="https://zaptatech.com/public/assets/images/DAN3.svg" width="77" height="77" alt="ZAPTA Technologies: Data Engineering" />
 
-                            <a href="#" className="text-primary text-decoration-none card_sub_text">Data Engineering</a>
+                            <a href="/" className="text-primary text-decoration-none card_sub_text">Data Engineering</a>
                             <p className="card-text pt-3">Designing and developing information systems</p>
                         </div>
                     </div>
@@ -294,7 +294,7 @@ function CloudComp() {
                         <div className="card-body">
                             <img className="center pb-3" src="https://zaptatech.com/public/assets/images/DAN4.svg" width="77" height="77" alt="ZAPTA Technologies: Data Visualization" />
 
-                            <a href="#" className="text-primary text-decoration-none card_sub_text">Data Visualization</a>
+                            <a href="/" className="text-primary text-decoration-none card_sub_text">Data Visualization</a>
                             <p className="card-text pt-3">Text related processing in Big Data</p>
                         </div>
                     </div>
@@ -310,7 +310,7 @@ function CloudComp() {
                         <div className="card-body">
                             <img className="center pb-3" src="https://zaptatech.com/public/assets/images/DAN5.svg" width="77" height="77" alt="ZAPTA Technologies: Data Automation" />
 
-                            <a href="#" className="text-primary text-decoration-none card_sub_text">Automation</a>
+                            <a href="/" className="text-primary text-decoration-none card_sub_text">Automation</a>
                             <p className="card-text pt-3">Data Automation Feature</p>
                         </div>
                     </div>
@@ -322,7 +322,7 @@ function CloudComp() {
                         <div className="card-body">
                             <img className="center pb-3" src="https://zaptatech.com/public/assets/images/DAN6.svg" width="77" height="77" alt="ZAPTA Technologies: Consultation" />
 
-                            <a href="#" className="text-primary text-decoration-none card_sub_text">Consultation</a>
+                            <a href="/" className="text-primary text-decoration-none card_sub_text">Consultation</a>
                             <p className="card-text pt-3">Consulation with our team on specified quries</p>
                         </div>
                     </div>
@@ -341,7 +341,7 @@ function CloudComp() {
                 <div className="col-sm-6">
                     <div className="pb-4">
                         <h2 className="">Databases</h2>
-                        <a className="text-muted text-primary text-decoration-none" href="#">Intelligence in
+                        <a className="text-muted text-primary text-decoration-none" href="/">Intelligence in
                             Fintech</a>
                     </div>
                     <p className="">Our NPC crew has a wide range of experience that can help your database
@@ -351,7 +351,7 @@ function CloudComp() {
                         program/agency, policies, and systems. </p>
                     <div className="pt-5">
                         <h6 className="text-dark">Related Case Study:</h6>
-                        <a href="#" className="text-primary text-decoration-none">Smart Financing</a>
+                        <a href="/" className="text-primary text-decoration-none">Smart Financing</a>
                     </div>
                 </div>
 
@@ -365,7 +365,7 @@ function CloudComp() {
                         <div className="card-body">
                             <img className="center pb-3" src="https://zaptatech.com/public/assets/images/db1.svg" width="77" height="77" alt="ZAPTA Technologies: Micoservices For Distributed application using containers" />
 
-                            <a href="#" className="text-primary text-decoration-none card_sub_text">Micoservices</a>
+                            <a href="/" className="text-primary text-decoration-none card_sub_text">Micoservices</a>
                             <p className="card-text pt-3">For Distributed application using containers</p>
                         </div>
                     </div>
@@ -377,7 +377,7 @@ function CloudComp() {
                         <div className="card-body">
                             <img className="center pb-3" src="https://zaptatech.com/public/assets/images/db2.svg" width="77" height="77" alt="ZAPTA Technologies: Provides Web APIs Integration of Web APIs Support" />
 
-                            <a href="#" className="text-primary text-decoration-none card_sub_text">Web APIs</a>
+                            <a href="/" className="text-primary text-decoration-none card_sub_text">Web APIs</a>
                             <p className="card-text pt-3">Integration of Web APIs Support</p>
                         </div>
                     </div>
@@ -389,7 +389,7 @@ function CloudComp() {
                         <div className="card-body">
                             <img className="center pb-3" src="https://zaptatech.com/public/assets/images/db3.svg" width="77" height="77" alt="ZAPTA Technologies:Cloud computing services allowing instantiation"/>
 
-                            <a href="#" className="text-primary text-decoration-none card_sub_text">Platform as Service</a>
+                            <a href="/" className="text-primary text-decoration-none card_sub_text">Platform as Service</a>
                             <p className="card-text pt-3">Cloud computing services allowing instantiation</p>
                         </div>
                     </div>
@@ -401,7 +401,7 @@ function CloudComp() {
                         <div className="card-body">
                             <img className="center pb-3" src="https://zaptatech.com/public/assets/images/db4.svg" width="77" height="77" alt="ZAPTA Technologies:Cloud computing execution model" />
 
-                            <a href="#" className="text-primary text-decoration-none card_sub_text">Serverless
+                            <a href="/" className="text-primary text-decoration-none card_sub_text">Serverless
                                 Architecture</a>
                             <p className="card-text pt-3">Cloud computing execution model </p>
                         </div>

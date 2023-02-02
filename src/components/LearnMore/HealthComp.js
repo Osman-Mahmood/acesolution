@@ -47,7 +47,7 @@ const HealthComp = () => {
           <div class="col-sm-6">
             <div class="pb-4 mt-5">
               <h2 class="">Electronic Health Record Software</h2>
-              <a class="text-primary text-decoration-none" href="#">
+              <a class="text-primary text-decoration-none" href="/">
                 Advancements in EHR/EMR
               </a>
             </div>
@@ -64,7 +64,7 @@ const HealthComp = () => {
             </p>
             <div class="pt-5">
               <h6 class="text-dark">Related Case Study:</h6>
-              <a href="#" class="text-primary text-decoration-none fs-18">
+              <a href="/" class="text-primary text-decoration-none fs-18">
                 The Future of EDTECH Industry
               </a>
             </div>
@@ -92,7 +92,7 @@ const HealthComp = () => {
                   alt="ZAPTA Technologies: Patient Records"
                 />
                 <a
-                  href="#"
+                  href="/"
                   class="text-primary text-decoration-none card_sub_text"
                 >
                   Patient Records
@@ -114,7 +114,7 @@ const HealthComp = () => {
                 />
 
                 <a
-                  href="#"
+                  href="/"
                   class="text-primary text-decoration-none card_sub_text"
                 >
                   E-prescribing
@@ -138,7 +138,7 @@ const HealthComp = () => {
                 />
 
                 <a
-                  href="#"
+                  href="/"
                   class="text-primary text-decoration-none card_sub_text"
                 >
                   Scheduling
@@ -161,7 +161,7 @@ const HealthComp = () => {
                   alt="Clinical Records"
                 />
                 <a
-                  href="#"
+                  href="/"
                   class="text-primary text-decoration-none card_sub_text"
                 >
                   Clinical Records
@@ -185,7 +185,7 @@ const HealthComp = () => {
                 />
 
                 <a
-                  href="#"
+                  href="/"
                   class="text-primary text-decoration-none card_sub_text"
                 >
                   Lab Tests
@@ -207,7 +207,7 @@ const HealthComp = () => {
                   alt="ZAPTA Technologies: Alerts"
                 />
                 <a
-                  href="#"
+                  href="/"
                   class="text-primary text-decoration-none card_sub_text"
                 >
                   Alerts
@@ -229,7 +229,7 @@ const HealthComp = () => {
                 />
 
                 <a
-                  href="#"
+                  href="/"
                   class="text-primary text-decoration-none card_sub_text"
                 >
                   Admininstrative Tools
@@ -252,7 +252,7 @@ const HealthComp = () => {
                   alt="ZAPTA Technologies:Cross-Communication"
                 />
                 <a
-                  href="#"
+                  href="/"
                   class="text-primary text-decoration-none card_sub_text"
                 >
                   Cross-Communication
@@ -276,7 +276,7 @@ const HealthComp = () => {
           <div class="col-sm-6">
             <div class="pb-4">
               <h2 class="">Telehealth and Telemedicine Software</h2>
-              <a class="text-muted text-primary text-decoration-none" href="#">
+              <a class="text-muted text-primary text-decoration-none" href="/">
                 Telehealth Systems
               </a>
             </div>
@@ -299,7 +299,7 @@ const HealthComp = () => {
             </p>
             <div class="pt-5">
               <h6 class="text-dark">Related Case Study:</h6>
-              <a href="#" class="text-primary text-decoration-none">
+              <a href="/" class="text-primary text-decoration-none">
                 Future of TeleHealth
               </a>
             </div>
@@ -321,7 +321,7 @@ const HealthComp = () => {
                 />
 
                 <a
-                  href="#"
+                  href="/"
                   class="text-primary text-decoration-none card_sub_text"
                 >
                   Video Conference
@@ -344,7 +344,7 @@ const HealthComp = () => {
                   alt="ZAPTA Technologies: Integrated pharmacy"
                 />
                 <a
-                  href="#"
+                  href="/"
                   class="text-primary text-decoration-none card_sub_text"
                 >
                   Integrated pharmacy
@@ -367,7 +367,7 @@ const HealthComp = () => {
                   alt="ZAPTA Technologies: Patient Monitoring"
                 />
                 <a
-                  href="#"
+                  href="/"
                   class="text-primary text-decoration-none card_sub_text"
                 >
                   Patient Monitoring
@@ -391,7 +391,7 @@ const HealthComp = () => {
                 />
 
                 <a
-                  href="#"
+                  href="/"
                   class="text-primary text-decoration-none card_sub_text"
                 >
                   Consultation
@@ -408,7 +408,7 @@ const HealthComp = () => {
           <div class="col-sm-6">
             <div class="pb-4">
               <h2 class="">Laboratory Information Management System</h2>
-              <a class="text-muted text-primary text-decoration-none" href="#">
+              <a class="text-muted text-primary text-decoration-none" href="/">
                 Lab Management
               </a>
             </div>
@@ -428,7 +428,7 @@ const HealthComp = () => {
             </p>
             <div class="pt-5">
               <h6 class="fs-18 text-dark">Related Case Study:</h6>
-              <a href="#" class="text-primary text-decoration-none fs-18">
+              <a href="/" class="text-primary text-decoration-none fs-18">
                 LabCrew Survey
               </a>
             </div>
@@ -457,7 +457,7 @@ const HealthComp = () => {
                 />
 
                 <a
-                  href="#"
+                  href="/"
                   class="text-primary text-decoration-none card_sub_text"
                 >
                   Sample Management
@@ -479,7 +479,7 @@ const HealthComp = () => {
                 />
 
                 <a
-                  href="#"
+                  href="/"
                   class="text-primary text-decoration-none card_sub_text"
                 >
                   Bill and Payments
@@ -501,7 +501,7 @@ const HealthComp = () => {
                 />
 
                 <a
-                  href="#"
+                  href="/"
                   class="text-primary text-decoration-none card_sub_text"
                 >
                   Record Keeping
@@ -523,7 +523,7 @@ const HealthComp = () => {
                 />
 
                 <a
-                  href="#"
+                  href="/"
                   class="text-primary text-decoration-none card_sub_text"
                 >
                   Inventory Management
@@ -549,7 +549,7 @@ const HealthComp = () => {
                 />
 
                 <a
-                  href="#"
+                  href="/"
                   class="text-primary text-decoration-none card_sub_text"
                 >
                   Analytics &amp; Reporting
@@ -573,7 +573,7 @@ const HealthComp = () => {
                 />
 
                 <a
-                  href="#"
+                  href="/"
                   class="text-primary text-decoration-none card_sub_text"
                 >
                   EMR/HRM Integration
@@ -596,7 +596,7 @@ const HealthComp = () => {
                 />
 
                 <a
-                  href="#"
+                  href="/"
                   class="text-primary text-decoration-none card_sub_text"
                 >
                   Order Management
@@ -616,7 +616,7 @@ const HealthComp = () => {
                   alt="ZAPTA Technologies:Result Tracking"
                 />
                 <a
-                  href="#"
+                  href="/"
                   class="text-primary text-decoration-none card_sub_text"
                 >
                   Result Tracking
@@ -639,7 +639,7 @@ const HealthComp = () => {
           <div class="col-sm-6">
             <div class="pb-4">
               <h2 class="">Hospital and Practice Management Systems</h2>
-              <a class="text-muted text-primary text-decoration-none" href="#">
+              <a class="text-muted text-primary text-decoration-none" href="/">
                 Management Systems
               </a>
             </div>
@@ -660,7 +660,7 @@ const HealthComp = () => {
             </p>
             <div class="pt-5">
               <h6 class="text-dark">Related Case Study:</h6>
-              <a href="#" class="text-primary text-decoration-none fs-18">
+              <a href="/" class="text-primary text-decoration-none fs-18">
                 Technological Involvement in General Practice
               </a>
             </div>
@@ -680,7 +680,7 @@ const HealthComp = () => {
                 />
 
                 <a
-                  href="#"
+                  href="/"
                   class="text-primary text-decoration-none card_sub_text"
                 >
                   Secure Patient Database
@@ -703,7 +703,7 @@ const HealthComp = () => {
                 />
 
                 <a
-                  href="#"
+                  href="/"
                   class="text-primary text-decoration-none card_sub_text"
                 >
                   Appointment Scheduling
@@ -726,7 +726,7 @@ const HealthComp = () => {
                 />
 
                 <a
-                  href="#"
+                  href="/"
                   class="text-primary text-decoration-none card_sub_text"
                 >
                   Invoicing &amp; Payments
@@ -749,7 +749,7 @@ const HealthComp = () => {
                 />
 
                 <a
-                  href="#"
+                  href="/"
                   class="text-primary text-decoration-none card_sub_text"
                 >
                   Dashboard

@@ -40,7 +40,7 @@ const FinanceComp = () => {
                 <div class="col-sm-6">
                     <div class="pb-4">
                         <h2 class="">Custom Fintech Software</h2>
-                        <a class="text-muted text-primary text-decoration-none" href="#">Fintech Production</a>
+                        <a class="text-muted text-primary text-decoration-none" href="/">Fintech Production</a>
                     </div>
                     <p class="">About 80% of consumers are more willing to conduct business with firms that
                         deliver tailored experiences. When it comes to banking, 40% of clients indicated they would
@@ -53,7 +53,7 @@ const FinanceComp = () => {
                         distinction between brands, partnering with us is an investment worth making.</p>
                     <div class="pt-5">
                         <h6 class="text-dark">Related Case Study:</h6>
-                        <a href="#" class="text-primary text-decoration-none">The Future of EDTECH Industry</a>
+                        <a href="/" class="text-primary text-decoration-none">The Future of EDTECH Industry</a>
                     </div>
                 </div>
                 <div class="col-sm-6">
@@ -72,7 +72,7 @@ const FinanceComp = () => {
 
                         <div class="card-body">
                             <img class="center pb-3" src="https://zaptatech.com/public/assets/images/CP1.svg" width="77" height="77" alt="ZAPTA Technologies: Cross Platform" />
-                            <a href="#" class="text-primary text-decoration-none card_sub_text">Cross Platform
+                            <a href="/" class="text-primary text-decoration-none card_sub_text">Cross Platform
                                 Compatible</a>
                             <p class="card-text pt-3">Fully compatible on mobile and web devices</p>
                         </div>
@@ -85,7 +85,7 @@ const FinanceComp = () => {
                             <img class="center pb-3" src="https://zaptatech.com/public/assets/images/CP2.svg" width="77" height="77" alt="ZAPTA Technologies: hird Party
                                 Authentication" />
 
-                            <a href="#" class="text-primary text-decoration-none card_sub_text">Third Party
+                            <a href="/" class="text-primary text-decoration-none card_sub_text">Third Party
                                 Authentication</a>
                             <p class="card-text pt-3">Management of charting &amp; e-prescribing</p>
                         </div>
@@ -98,7 +98,7 @@ const FinanceComp = () => {
                         <div class="card-body">
                             <img class="center pb-3" src="https://zaptatech.com/public/assets/images/CP3.svg" width="77" height="77" alt="ZAPTA Technologies: Biometric Security" />
 
-                            <a href="#" class="text-primary text-decoration-none card_sub_text">Biometric Security</a>
+                            <a href="/" class="text-primary text-decoration-none card_sub_text">Biometric Security</a>
                             <p class="card-text pt-3">Get access to Biometric Security System</p>
                         </div>
                     </div>
@@ -110,7 +110,7 @@ const FinanceComp = () => {
                         <div class="card-body">
                             <img class="center pb-3" src="https://zaptatech.com/public/assets/images/CP4.svg" width="77" height="77" alt="ZAPTA Technologies: ML &amp; Chatbots" />
 
-                            <a href="#" class="text-primary text-decoration-none card_sub_text">ML &amp; Chatbots</a>
+                            <a href="/" class="text-primary text-decoration-none card_sub_text">ML &amp; Chatbots</a>
                             <p class="card-text pt-3">Machine Learning &amp; Chatbot system</p>
                         </div>
                     </div>
@@ -126,7 +126,7 @@ const FinanceComp = () => {
                         <div class="card-body">
                             <img class="center pb-3" src="https://zaptatech.com/public/assets/images/CP5.svg" width="77" height="77" alt="ZAPTA Technologies: API Integration" />
 
-                            <a href="#" class="text-primary text-decoration-none card_sub_text">API Integration</a>
+                            <a href="/" class="text-primary text-decoration-none card_sub_text">API Integration</a>
                             <p class="card-text pt-3">Fully API serve supported system</p>
                         </div>
                     </div>
@@ -138,7 +138,7 @@ const FinanceComp = () => {
                         <div class="card-body">
                             <img class="center pb-3" src="https://zaptatech.com/public/assets/images/CP6.svg" width="77" height="77" alt="ZAPTA Technologies: Reports" />
 
-                            <a href="#" class="text-primary text-decoration-none card_sub_text">Reports</a>
+                            <a href="/" class="text-primary text-decoration-none card_sub_text">Reports</a>
                             <p class="card-text pt-3">Management of Report generation and analysis</p>
                         </div>
                     </div>
@@ -150,7 +150,7 @@ const FinanceComp = () => {
                         <div class="card-body">
                             <img class="center pb-3" src="https://zaptatech.com/public/assets/images/CP7.svg" width="77" height="77" alt="ZAPTA Technologies: Transaction Reports" />
 
-                            <a href="#" class="text-primary text-decoration-none card_sub_text">Transaction Reports</a>
+                            <a href="/" class="text-primary text-decoration-none card_sub_text">Transaction Reports</a>
                             <p class="card-text pt-3">Management of Transaction Reports</p>
                         </div>
                     </div>
@@ -162,7 +162,7 @@ const FinanceComp = () => {
                         <div class="card-body">
                             <img class="center pb-3" src="https://zaptatech.com/public/assets/images/CP8.svg" width="77" height="77" alt="ZAPTA Technologies: Savings" />
 
-                            <a href="#" class="text-primary text-decoration-none card_sub_text">Savings</a>
+                            <a href="/" class="text-primary text-decoration-none card_sub_text">Savings</a>
                             <p class="card-text pt-3">Doctor-doctor &amp; doctor-patient communication</p>
                         </div>
                     </div>
@@ -179,7 +179,7 @@ const FinanceComp = () => {
                 <div class="col-sm-6">
                     <div class="pb-4">
                         <h2 class="">Intelligent CRM Solutions</h2>
-                        <a class="text-muted text-primary text-decoration-none" href="#">Intelligence in
+                        <a class="text-muted text-primary text-decoration-none" href="/">Intelligence in
                             Fintech</a>
                     </div>
                     <p class="">Make use of big data analytics to create tailored investing strategies. Our
@@ -195,7 +195,7 @@ const FinanceComp = () => {
                     </p>
                     <div class="pt-5">
                         <h6 class="text-dark">Related Case Study:</h6>
-                        <a href="#" class="text-primary text-decoration-none">Smart Financing</a>
+                        <a href="/" class="text-primary text-decoration-none">Smart Financing</a>
                     </div>
                 </div>
             </div>
@@ -210,7 +210,7 @@ const FinanceComp = () => {
                         <div class="card-body">
                             <img class="center pb-3" src="https://zaptatech.com/public/assets/images/CS1.svg" width="77" height="77" alt="ZAPTA Technologies: Customer Support" />
 
-                            <a href="#" class="text-primary text-decoration-none card_sub_text">Customer Support</a>
+                            <a href="/" class="text-primary text-decoration-none card_sub_text">Customer Support</a>
                             <p class="card-text pt-3">Get dedicated customer support</p>
                         </div>
                     </div>
@@ -222,7 +222,7 @@ const FinanceComp = () => {
                         <div class="card-body">
                             <img class="center pb-3" src="https://zaptatech.com/public/assets/images/CS2.svg" width="77" height="77" alt="ZAPTA Technologies: 360 Financing" />
 
-                            <a href="#" class="text-primary text-decoration-none card_sub_text">360 Financing</a>
+                            <a href="/" class="text-primary text-decoration-none card_sub_text">360 Financing</a>
                             <p class="card-text pt-3">Get 360 view of financials</p>
                         </div>
                     </div>
@@ -234,7 +234,7 @@ const FinanceComp = () => {
                         <div class="card-body">
                             <img class="center pb-3" src="https://zaptatech.com/public/assets/images/CS3.svg" width="77" height="77" alt="ZAPTA Technologies: Contact Management" />
 
-                            <a href="#" class="text-primary text-decoration-none card_sub_text">Contact Management</a>
+                            <a href="/" class="text-primary text-decoration-none card_sub_text">Contact Management</a>
                             <p class="card-text pt-3">Get in conact with Management</p>
                         </div>
                     </div>
@@ -246,7 +246,7 @@ const FinanceComp = () => {
                         <div class="card-body">
                             <img class="center pb-3" src="https://zaptatech.com/public/assets/images/CS4.svg" width="77" height="77" alt="ZAPTA Technologies: Sales Automation" />
 
-                            <a href="#" class="text-primary text-decoration-none card_sub_text">Sales Automation</a>
+                            <a href="/" class="text-primary text-decoration-none card_sub_text">Sales Automation</a>
                             <p class="card-text pt-3">Make sale trails automated with our intelligent system</p>
                         </div>
                     </div>
@@ -261,7 +261,7 @@ const FinanceComp = () => {
                         <div class="card-body">
                             <img class="center pb-3" src="https://zaptatech.com/public/assets/images/CS5.svg" width="77" height="77" alt="ZAPTA Technologies: Lead Management" />
 
-                            <a href="#" class="text-primary text-decoration-none card_sub_text">Lead Management</a>
+                            <a href="/" class="text-primary text-decoration-none card_sub_text">Lead Management</a>
                             <p class="card-text pt-3">Get access to Lead Management feature</p>
                         </div>
                     </div>
@@ -273,7 +273,7 @@ const FinanceComp = () => {
                         <div class="card-body">
                             <img class="center pb-3" src="https://zaptatech.com/public/assets/images/CS6.svg" width="77" height="77" alt="ZAPTA Technologies: Customer Engagement" />
 
-                            <a href="#" class="text-primary text-decoration-none card_sub_text">Customer Engagement</a>
+                            <a href="/" class="text-primary text-decoration-none card_sub_text">Customer Engagement</a>
                             <p class="card-text pt-3">Get access to engagement feature</p>
                         </div>
                     </div>
@@ -285,7 +285,7 @@ const FinanceComp = () => {
                         <div class="card-body">
                             <img class="center pb-3" src="https://zaptatech.com/public/assets/images/CS7.svg" width="77" height="77" alt="ZAPTA Technologies: Maketing Management" />
 
-                            <a href="#" class="text-primary text-decoration-none card_sub_text">Maketing Management</a>
+                            <a href="/" class="text-primary text-decoration-none card_sub_text">Maketing Management</a>
                             <p class="card-text pt-3">Make sale trails automated with our intelligent system</p>
                         </div>
                     </div>
@@ -297,7 +297,7 @@ const FinanceComp = () => {
                 <div class="col-sm-6">
                     <div class="pb-4">
                         <h2 class="">RegTech Solutions</h2>
-                        <a class="text-muted text-primary text-decoration-none" href="#">RegTech Services</a>
+                        <a class="text-muted text-primary text-decoration-none" href="/">RegTech Services</a>
                     </div>
                     <p class="">Do you need assistance with the development of automated Regtech solutions?
                         ACE Technologies offers diverse options ranging from fraud detection and prevention to online
@@ -308,7 +308,7 @@ const FinanceComp = () => {
                         minimizing the strain on your limited human resources.</p>
                     <div class="pt-5">
                         <h6 class="text-dark">Related Case Study:</h6>
-                        <a href="#" class="text-primary text-decoration-none fs-18">RegTech Explained</a>
+                        <a href="/" class="text-primary text-decoration-none fs-18">RegTech Explained</a>
                     </div>
                 </div>
           
@@ -329,7 +329,7 @@ const FinanceComp = () => {
                             <img class="center pb-3" src="https://zaptatech.com/public/assets/images/TM1.svg" width="77" height="77" alt="ZAPTA Technologies:Transaction
                                 Monitoring" />
 
-                            <a href="#" class="text-primary text-decoration-none card_sub_text">Transaction
+                            <a href="/" class="text-primary text-decoration-none card_sub_text">Transaction
                                 Monitoring</a>
                             <p class="card-text pt-3">Managements of Transaction trails and reporting</p>
                         </div>
@@ -342,7 +342,7 @@ const FinanceComp = () => {
                         <div class="card-body">
                             <img class="center pb-3" src="https://zaptatech.com/public/assets/images/TM2.svg" width="77" height="77" alt="ZAPTA Technologies: Audit Management" />
 
-                            <a href="#" class="text-primary text-decoration-none card_sub_text">Audit Management</a>
+                            <a href="/" class="text-primary text-decoration-none card_sub_text">Audit Management</a>
                             <p class="card-text pt-3">Manage audits and auditory reportings</p>
                         </div>
                     </div>
@@ -355,7 +355,7 @@ const FinanceComp = () => {
                             <img class="center pb-3" src="https://zaptatech.com/public/assets/images/TM3.svg" width="77" height="77" alt="ZAPTA Technologies: Complaints
                                 Management" />
 
-                            <a href="#" class="text-primary text-decoration-none card_sub_text">Complaints
+                            <a href="/" class="text-primary text-decoration-none card_sub_text">Complaints
                                 Management</a>
                             <p class="card-text pt-3">Management of consumer complaints</p>
                         </div>
@@ -368,7 +368,7 @@ const FinanceComp = () => {
                         <div class="card-body">
                             <img class="center pb-3" src="https://zaptatech.com/public/assets/images/TM4.svg" width="77" height="77" alt="ZAPTA Technologies: Funds Compliance" />
 
-                            <a href="#" class="text-primary text-decoration-none card_sub_text">Funds Compliance</a>
+                            <a href="/" class="text-primary text-decoration-none card_sub_text">Funds Compliance</a>
                             <p class="card-text pt-3">Management entity/groups for funds compliance monitor</p>
                         </div>
                     </div>
@@ -386,7 +386,7 @@ const FinanceComp = () => {
                 <div class="col-sm-6">
                     <div class="pb-4">
                         <h2 class="">Accounting and Financial Management Systems</h2>
-                        <a class="text-muted text-primary text-decoration-none" href="#">Fintech Management
+                        <a class="text-muted text-primary text-decoration-none" href="/">Fintech Management
                             Systems</a>
                     </div>
                     <p class="">Without an accounting or financial Management System, the survival of a
@@ -398,7 +398,7 @@ const FinanceComp = () => {
                         system, to assist businesses in completing day-to-day business operations.</p>
                     <div class="pt-5">
                         <h6 class="text-dark">Related Case Study:</h6>
-                        <a href="#" class="text-primary text-decoration-none">Technological Involvement in General
+                        <a href="/" class="text-primary text-decoration-none">Technological Involvement in General
                             Practice</a>
                     </div>
                 </div>
@@ -413,7 +413,7 @@ const FinanceComp = () => {
                         <div class="card-body">
                             <img class="center pb-3" src="https://zaptatech.com/public/assets/images/AA1.svg" width="77" height="77" alt="ZAPTA Technologies: Account Aggregation" />
 
-                            <a href="#" class="text-primary text-decoration-none card_sub_text">Account Aggregation</a>
+                            <a href="/" class="text-primary text-decoration-none card_sub_text">Account Aggregation</a>
                             <p class="card-text pt-3">Account Aggregation and management</p>
                         </div>
                     </div>
@@ -426,7 +426,7 @@ const FinanceComp = () => {
                             <img class="center pb-3" src="https://zaptatech.com/public/assets/images/AA2.svg" width="77" height="77" alt="ZAPTA Technologies: ill Payment &amp;
                                 Budgeting" />
 
-                            <a href="#" class="text-primary text-decoration-none card_sub_text">Bill Payment &amp;
+                            <a href="/" class="text-primary text-decoration-none card_sub_text">Bill Payment &amp;
                                 Budgeting</a>
                             <p class="card-text pt-3">Management of bill payments and budgeting reports</p>
                         </div>
@@ -439,7 +439,7 @@ const FinanceComp = () => {
                         <div class="card-body">
                             <img class="center pb-3" src="https://zaptatech.com/public/assets/images/AA3.svg" width="77" height="77" alt="ZAPTA Technologies: Seamless Integration" />
 
-                            <a href="#" class="text-primary text-decoration-none card_sub_text">Seamless Integration</a>
+                            <a href="/" class="text-primary text-decoration-none card_sub_text">Seamless Integration</a>
                             <p class="card-text pt-3">Fully seamless Integration capabilities</p>
                         </div>
                     </div>
