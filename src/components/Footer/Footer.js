@@ -218,16 +218,15 @@ const Footer = () => {
                   id="Scroller_btn"
                 >
                   <div className="d-flex float-end">
-                    <a href="/" className="text-decoration-none">
+                   
                       <div className="text-white me-5 fs-14">
                         Terms &amp; Services
                       </div>
-                    </a>
-                    <a href="/" className="text-decoration-none">
+                  
                       <div className="text-white me-5 fs-14">
                         Privacy Policy
                       </div>
-                    </a>
+                
                     <div>
                       <span
                         className="float-end top"

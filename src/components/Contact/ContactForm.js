@@ -1,6 +1,9 @@
 import React, { useState } from "react";
 import "./ContactStyle.css";
 import axios from "axios"
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
+
 
 const ContactForm = () => {
   const [name, setName] = useState("");
@@ -16,16 +19,19 @@ const ContactForm = () => {
           message: message
         })
         if(response) {
-          console.log(response, "==================>>>>")
+          // console.log(response, "==================>>>>")
+          toast.success("Thanks for contacting")
         }
     } catch (error) {
       console.log(error)
+      toast.error("error")
     } 
+   event.target.reset();
   }
 
   return (
-    <div className="container-fluid p-lg-5 p-md-5 p-sm-5 py-5 main">
-      <div className="row" id="Call_book">
+    <div className="container-fluid p-lg-5 p-md-5 p-sm-5 py-5 main" id="contact">
+      <div className="row" id="Call_book" >
         <div className="col-12">
           <h2 className="text-center" style={{marginTop:'-50px'}}>
             Talk to us and get your project moving!
@@ -172,9 +178,11 @@ const ContactForm = () => {
                     <button
                       type="submit"
                       className="btn btn-primary book-call-btn call"
+                      onClick={toast}
                     >
                       Book a call
                     </button>
+                    <ToastContainer />
                   </div>
                 </form>
               </div>

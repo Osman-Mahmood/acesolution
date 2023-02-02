@@ -16,7 +16,7 @@ const Blogs = () => {
           </div>
         </div>
       </div>
-      <div className="container-xl">
+      <div className="container-xl" id="blog">
         <div className="row mt-3">
           <div className="col-md-8">
             <div className="row mb-28">

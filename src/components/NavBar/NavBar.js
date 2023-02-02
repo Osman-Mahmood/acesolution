@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
-import { Link, useLocation } from "react-router-dom";
+import { Link, useLocation, useNavigate } from "react-router-dom";
 import { mySliceActions } from "../../store/Slice";
 import Particals from "../../UI/Particals";
 import "./NavStyle.css";
@@ -42,9 +42,13 @@ const NavBar = () => {
       }
     });
     handleLocation()
-    window.scrollTo(0 , 0);
   }, [scroll, location]);
 
+  useEffect(() => {
+    window.scrollTo(0 , 0);
+  }, [location]);
+
+  
 
   
   return (
@@ -57,7 +61,7 @@ const NavBar = () => {
         }
       >
         <h1>
-          <Link to={"/"} className="d-flex mt-3">
+          <Link to={"/"} className="d-flex mt-1">
             <img
               className=""
               src={
@@ -96,19 +100,23 @@ const NavBar = () => {
             </li>
           ))}
         </ul>
+        <Link
+        to="contact">
         <button
           className={
             scroll && NavData[0].isActive !== false
               ? "btn btn-book display-none"
               : "btn btn-book-scroll display-none"
           }
+       
         >
           Book a call
         </button>
+        </Link>
         <button
           className="btn btn-menue transform-icon"
           data-bs-toggle="offcanvas"
-          href="/offcanvasExample"
+          href="#offcanvasExample"
           aria-controls="offcanvasExample"
           onClick={() => setNavShow(!navShow)}
         >

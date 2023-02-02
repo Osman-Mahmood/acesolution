@@ -9,6 +9,9 @@
   box-shadow: none !important;
   text-decoration: none;
 }
+.btnCanvas:hover{
+  color: white;
+}
 .btnCanvas-outline{
   outline: none !important;
   box-shadow: none !important;
@@ -98,11 +101,9 @@
     border-radius: 10px !important;
     object-fit: cover !important;
 }
-.btnCanvas-outline{
+.pad{
   margin-top: 20px;
   padding: 0 !important;
 }
-.btnCanvas{
-  margin-top: 20px;
-}
+
 }

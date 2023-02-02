@@ -9,15 +9,15 @@ const ContactHead = () => {
           <div className="row">
             <div className="container text-center pt-5">
               <h1 className="">CONTACT US</h1>
-              <h4 className="clr-grey pt-4 mb-40">
+              <p className="clr-grey pt-1">
                 Get in touch for more information
-              </h4>
+              </p>
             </div>
           </div>
         </div>
       </div>
       <div className="container-fliud p-5">
-        <div className="row top-pt pt-5 btn-mob both-50" id="back-img">
+        <div className="row top-pt btn-mob both-50" id="back-img">
           <div className="col-sm-3 mb-3">
             <div className="card card-1 h-100 contact_card">
               <a href="/" className="text-center pt-5 pb-4">

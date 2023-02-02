@@ -1,9 +1,12 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import "./SliderStyle.css";
 
 const OurBlogs = () => {
   return (
+    <Link to="blogs" className="text-decoration-none">
     <div className="main-blog p-lg-5 p-md-5 p-sm-5 p-2 py-5">
+      
       <div className="card blog-card" style={{ borderRadius: "15px" }}>
         <img
           src={require("../../assets/images/clutch.png")}
@@ -116,7 +119,9 @@ const OurBlogs = () => {
           </div>
         </div>
       </div>
+      
     </div>
+    </Link>
   );
 };
 

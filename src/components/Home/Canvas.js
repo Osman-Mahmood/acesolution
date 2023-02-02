@@ -169,7 +169,7 @@ const Canvas = () => {
         allowed <br />
         us to develop scalable, secure, and interactive solutions.
       </p>
-      <div className="d-flex flex-wrap justify-content-center p-5">
+      <div className="d-flex flex-wrap justify-content-center pad p-5">
         {canvas.map((data) => (
           <button
             key={data.id}
