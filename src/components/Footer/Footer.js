@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom"
 import "./footerStyle.css";
 
 const Footer = () => {
@@ -24,34 +25,34 @@ const Footer = () => {
                 <h4>Services</h4>
                 <ul className="list-unstyled pt-3">
                   <li>
-                    <a href="/" className="text-decoration-none pt-3 pb-5">
+                    <Link to="/Services/UI-UX-Design" className="text-decoration-none pt-3 pb-5">
                       UI/UX
-                    </a>
+                    </Link>
                   </li>
                   <li>
-                    <a href="/" className="text-decoration-none pt-3">
+                  <Link to="/Services/Web-Development" className="text-decoration-none pt-3">
                       Web Development
-                    </a>
+                    </Link>
                   </li>
                   <li>
-                    <a href="/" className="text-decoration-none pt-3">
+                  <Link to="/Services/Mobile-App-Development" className="text-decoration-none pt-3">
                       Mobile App Development
-                    </a>
+                    </Link>
                   </li>
                   <li>
-                    <a href="/" className="text-decoration-none pt-3">
+                  <Link to="/Services/Quality-Assurance" className="text-decoration-none pt-3">
                       Software Quality Assurance
-                    </a>
+                    </Link>
                   </li>
                   <li>
-                    <a href="/" className="text-decoration-none pt-3">
+                  <Link to="/Services/Business-Intelligance" className="text-decoration-none pt-3">
                       Business Intelligence
-                    </a>
+                    </Link>
                   </li>
                   <li>
-                    <a href="/" className="text-decoration-none pt-3">
+                  <Link to="/Services/WordPress-Development" className="text-decoration-none pt-3">
                       WordPress Development
-                    </a>
+                    </Link>
                   </li>
                 </ul>
               </div>
@@ -61,34 +62,34 @@ const Footer = () => {
                 <h4>Quick Link</h4>
                 <ul className="list-quik-link list-unstyled pt-3">
                   <li>
-                    <a href="/" className="text-decoration-none pt-3">
+                  <Link to="/" className="text-decoration-none pt-3">
                       Home
-                    </a>
+                    </Link>
                   </li>
                   <li>
-                    <a href="/" className="text-decoration-none pt-3">
+                  <Link to="/About" className="text-decoration-none pt-3">
                       About
-                    </a>
+                    </Link>
                   </li>
                   <li>
-                    <a href="/" className="text-decoration-none pt-3">
+                  <Link to="/Services" className="text-decoration-none pt-3">
                       Services
-                    </a>
+                    </Link>
                   </li>
                   <li>
-                    <a href="/" className="text-decoration-none pt-3">
+                  <Link to="/Career" className="text-decoration-none pt-3">
                       Career
-                    </a>
+                    </Link>
                   </li>
                   <li>
-                    <a href="/" className="text-decoration-none pt-3">
+                  <Link to="/Blogs" className="text-decoration-none pt-3">
                       Blogs
-                    </a>
+                    </Link>
                   </li>
                   <li>
-                    <a href="/" className="text-decoration-none pt-3">
+                  <Link to="/Contact" className="text-decoration-none pt-3">
                       FAQS
-                    </a>
+                    </Link>
                   </li>
                 </ul>
               </div>
@@ -228,11 +229,11 @@ const Footer = () => {
                       </div>
                     </a>
                     <div>
-                      <a
-                        href="/"
+                      <span
                         className="float-end top"
                         id="web-scroller-btn"
                         aria-label="ZAPTA Technologies web-scroller button"
+                        onClick={() => window.scrollTo(0,0)}
                       >
                         <div className="white-circle position-relative">
                           <div className="position-absolute top-50 start-50 translate-middle">
@@ -250,7 +251,7 @@ const Footer = () => {
                             </svg>
                           </div>
                         </div>
-                      </a>
+                      </span>
                     </div>
                   </div>
                 </div>

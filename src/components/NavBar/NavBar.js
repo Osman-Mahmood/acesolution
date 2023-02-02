@@ -42,6 +42,7 @@ const NavBar = () => {
       }
     });
     handleLocation()
+    window.scrollTo(0 , 0);
   }, [scroll, location]);
 
 

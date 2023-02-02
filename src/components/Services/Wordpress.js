@@ -3,11 +3,11 @@ import React from "react";
 const Wordpress = () => {
   return (
     <>
-      <div class="container-xl">
-        <div class="row pt-5">
-          <div class="col-sm-12">
-            <h1 class="text-center">WORDPRESS DEVELOPMENT</h1>
-            <p class="pt-1 mb-5 text-center">
+      <div className="container-xl">
+        <div className="row pt-5">
+          <div className="col-sm-12">
+            <h1 className="text-center">WORDPRESS DEVELOPMENT</h1>
+            <p className="pt-1 mb-5 text-center">
               WordPress Development Services involve building websites from
               scratch or modifying existing themes to meet corporate <br />{" "}
               needs. WordPress is a web-based content management system that is
@@ -16,15 +16,15 @@ const Wordpress = () => {
           </div>
         </div>
       </div>
-      <div class="container-fluid word_back">
-        <div class="container-xl h-100">
-          <div class="row align-items-center h-100">
-            <div class="col-sm-12">
-              <h2 class="text-center text-white">
+      <div className="container-fluid word_back">
+        <div className="container-xl h-100">
+          <div className="row align-items-center h-100">
+            <div className="col-sm-12">
+              <h2 className="text-center text-white">
                 ACE Technologies offer a superior development solution to meet
                 distinctive corporate objectives across a wide variety of areas.{" "}
               </h2>
-              <p class="text-white text-center mt-4 mb-0 pb-3">
+              <p className="text-white text-center mt-4 mb-0 pb-3">
                 ZAPTA Technologies offer a superior development solution to meet
                 distinctive corporate objectives across a wide variety of areas.
                 Our WordPress development services include producing websites
@@ -40,14 +40,14 @@ const Wordpress = () => {
           </div>
         </div>
       </div>
-      <div class="container-xl">
-        <div class="row pt-5">
-          <p class="">
+      <div className="container-xl">
+        <div className="row pt-5">
+          <p className="">
             WordPress is employed by 59.4 percent of the world's population or
             75 million people around the globe. It's used to create media sites,
             corporate websites, educational websites, and e-commerce sites.
           </p>
-          <p class="pt-4">
+          <p className="pt-4">
             ACE Technologies is an excellent digital solution provider to work
             with if you want a WordPress theme development application or any
             other related service. For our clients, our WordPress designers
@@ -57,20 +57,20 @@ const Wordpress = () => {
             willing to solve real-world problems.
           </p>
         </div>
-        <div class="row pt-5 align-items-center">
-          <div class="col-sm-6">
+        <div className="row pt-5 align-items-center">
+          <div className="col-sm-6">
             <img
-              class="img-responsive w-100"
+              className="img-responsive w-100"
               src="https://zaptatech.com/public/assets/images/wordpress-theme.png"
               alt="ZAPTA Technologies worpress"
             />
           </div>
-          <div class="col-sm-6">
-            <h3 class="text-dark">Wireframes</h3>
-            <h4 class="text-primary">
+          <div className="col-sm-6">
+            <h3 className="text-dark">Wireframes</h3>
+            <h4 className="text-primary">
               Fantastic design and bespoke theme development
             </h4>
-            <p class="mt-3">
+            <p className="mt-3">
               We leave no question unanswered in our endeavors to provide you
               with a fantastic design and bespoke theme development that meets
               your requirements. We will execute your idea or design properly,
@@ -78,11 +78,11 @@ const Wordpress = () => {
             </p>
           </div>
         </div>
-        <div class="row pt-5 align-items-center mb-5">
-          <div class="col-sm-6">
-            <h3 class="text-dark">Custom WordPress Development</h3>
-            <h4 class="text-primary">Trustworthy WordPress themes</h4>
-            <p class="mt-3">
+        <div className="row pt-5 align-items-center mb-5">
+          <div className="col-sm-6">
+            <h3 className="text-dark">Custom WordPress Development</h3>
+            <h4 className="text-primary">Trustworthy WordPress themes</h4>
+            <p className="mt-3">
               With personalized, up-to-date, and trustworthy WordPress themes
               for your website, we're ready to help you reach your full
               potential. We will bring your brand to life on the internet on a
@@ -94,9 +94,9 @@ const Wordpress = () => {
               the appropriate plugin in the web application.
             </p>
           </div>
-          <div class="col-sm-6">
+          <div className="col-sm-6">
             <img
-              class="img-responsive w-100"
+              className="img-responsive w-100"
               src="https://zaptatech.com/public/assets/images/custom-web.png"
               alt="ZAPTA Technologies contact us"
             />
