@@ -3,11 +3,11 @@ import React from "react";
 const Technical = () => {
   return (
     <>
-      <div class="container-xl">
-        <div class="row pt-5">
-          <div class="col-sm-12">
-            <h1 class="text-center">TECHNICAL WRITING</h1>
-            <p class="pt-1 mb-5 text-center">
+      <div className="container-xl">
+        <div className="row pt-5">
+          <div className="col-sm-12">
+            <h1 className="text-center">TECHNICAL WRITING</h1>
+            <p className="pt-1 mb-5 text-center">
               Technical writing is a type of communication that focuses on a
               customer's core problem. Our team of technical writers will <br />{" "}
               create user-centered, comprehensive online content that
@@ -16,15 +16,15 @@ const Technical = () => {
           </div>
         </div>
       </div>
-      <div class="container-fluid back">
-        <div class="container-xl h-100">
-          <div class="row align-items-center h-100">
-            <div class="col-sm-12">
-              <h2 class="text-center text-white">
+      <div className="container-fluid back">
+        <div className="container-xl h-100">
+          <div className="row align-items-center h-100">
+            <div className="col-sm-12">
+              <h2 className="text-center text-white">
                 ACE Technologies technical content writer provide simplified
                 and optimized SEO-rich content for the websites and blogs.
               </h2>
-              <p class="text-white text-center mt-4 mb-0 pb-3">
+              <p className="text-white text-center mt-4 mb-0 pb-3">
                 ACE is backed up by exceptionally talented technical writers who
                 have competencies among the industries to determine the needs of
                 the end-users and produce high-quality technical content. We
@@ -38,11 +38,11 @@ const Technical = () => {
           </div>
         </div>
       </div>
-      <div class="container-xl">
-        <div class="row pt-5">
-          <div class="col-sm-12">
-            <h3 class="text-center">What type of documents do we create</h3>
-            <p class="text-center mt-4">
+      <div className="container-xl">
+        <div className="row pt-5">
+          <div className="col-sm-12">
+            <h3 className="text-center">What type of documents do we create</h3>
+            <p className="text-center mt-4">
               Fully optimized content is written that excels at turning the
               simple layman goals into practical business objectives that
               effectively drive traffic to the website. Our team of experts will
@@ -54,20 +54,20 @@ const Technical = () => {
             </p>
           </div>
         </div>
-        <div class="row pt-5 align-items-center">
-          <div class="col-sm-6">
+        <div className="row pt-5 align-items-center">
+          <div className="col-sm-6">
             <img
-              class="img-responsive w-100"
+              className="img-responsive w-100"
               src="https://zaptatech.com/public/assets/images/tech1.png"
               alt="ZAPTA Technologies worpress"
             />
           </div>
-          <div class="col-sm-6">
-            <h3 class="text-dark">
+          <div className="col-sm-6">
+            <h3 className="text-dark">
               Software Requirements Specification (SRS) Documents
             </h3>
-            <h4 class="text-primary">Enhances software quality</h4>
-            <p class="mt-3">
+            <h4 className="text-primary">Enhances software quality</h4>
+            <p className="mt-3">
               The comprehensive documentation aids in keeping track of all
               elements of an application and enhances software quality. The
               detailed documentation is required by the organizations in order
@@ -81,13 +81,13 @@ const Technical = () => {
             </p>
           </div>
         </div>
-        <div class="row pt-5 align-items-center">
-          <div class="col-sm-6">
-            <h3 class="text-dark">Software Design and Architecture (SDA) </h3>
-            <h4 class="text-primary">
+        <div className="row pt-5 align-items-center">
+          <div className="col-sm-6">
+            <h3 className="text-dark">Software Design and Architecture (SDA) </h3>
+            <h4 className="text-primary">
               Big picture of the underdevelopment software
             </h4>
-            <p class="mt-3">
+            <p className="mt-3">
               Software Design and Architecture documentation includes high-level
               and atomic level diagrams that illustrate both process and product
               level designs for the development team. Our experienced architects
@@ -104,26 +104,26 @@ const Technical = () => {
               underdevelopment software using these models.
             </p>
           </div>
-          <div class="col-sm-6">
+          <div className="col-sm-6">
             <img
-              class="img-responsive w-100"
+              className="img-responsive w-100"
               src="https://zaptatech.com/public/assets/images/tech2.png"
               alt="ZAPTA Technologies worpress"
             />
           </div>
         </div>
-        <div class="row pt-100 align-items-center">
-          <div class="col-sm-6">
+        <div className="row pt-100 align-items-center">
+          <div className="col-sm-6">
             <img
-              class="img-responsive w-100"
+              className="img-responsive w-100"
               src="https://zaptatech.com/public/assets/images/tech3.png"
               alt="ZAPTA Technologies worpress"
             />
           </div>
-          <div class="col-sm-6">
-            <h3 class="text-dark">Software Product Documents</h3>
-            <h4 class="text-primary">We create comprehensive documents</h4>
-            <p class="mt-3">
+          <div className="col-sm-6">
+            <h3 className="text-dark">Software Product Documents</h3>
+            <h4 className="text-primary">We create comprehensive documents</h4>
+            <p className="mt-3">
               ACE emphasis the user experience and make sure to provide all the
               necessary information that can assist customers to use the
               application after deployment. For this purpose, we create
@@ -139,13 +139,13 @@ const Technical = () => {
             </p>
           </div>
         </div>
-        <div class="row pt-5 mb-5">
-          <div class="col-sm-6">
-            <h3 class="text-dark">Web Content and Web Copy</h3>
-            <h4 class="text-primary">
+        <div className="row pt-5 mb-5">
+          <div className="col-sm-6">
+            <h3 className="text-dark">Web Content and Web Copy</h3>
+            <h4 className="text-primary">
               Meaningful and attractive content for the applications
             </h4>
-            <p class="mt-3">
+            <p className="mt-3">
               {" "}
               Our UI/UX engineers are highly qualified and are experts in
               crafting meaningful and attractive content for the applications.
@@ -155,9 +155,9 @@ const Technical = () => {
               accordance with the level of expertise of the end-users.
             </p>
           </div>
-          <div class="col-sm-6">
+          <div className="col-sm-6">
             <img
-              class="img-responsive w-100"
+              className="img-responsive w-100"
               src="https://zaptatech.com/public/assets/images/tech4.png"
               alt="ZAPTA Technologies worpress"
             />
