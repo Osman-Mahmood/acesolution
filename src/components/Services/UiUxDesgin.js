@@ -140,8 +140,8 @@ const UiUxDesgin = (props) => {
         <div className="row mt-100 mb-5 align-items-center">
           <div className="col-sm-5 bg-col2 pe-0">
             <img
-              className="img-responsive w-100 mt-4"
-              src="https://zaptatech.com/public/assets/images/ui-ux-pic1.png"
+              className="img-responsive w-100 mt-4 wire_img"
+              src="https://images.unsplash.com/photo-1573166801077-d98391a43199?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80"
               alt="ZAPTA Techbologies: builds innovative wireframes"
             />
           </div>
@@ -182,7 +182,7 @@ const UiUxDesgin = (props) => {
             <div className="col-sm-4">
               <img
                 className="img-responsive w-100"
-                src="https://zaptatech.com/public/assets/images/ui-ux-pic2.png"
+                src="https://img.freepik.com/free-vector/prototyping-process-concept-illustration_114360-1684.jpg?w=740&t=st=1675502202~exp=1675502802~hmac=7488384e5a24f0d347267c1ad89dd4bad801c951aaeb1a268d8c8e99b1ab7dd4"
                 alt="UI/UX Prototyping developed by ace tech"
               />
             </div>

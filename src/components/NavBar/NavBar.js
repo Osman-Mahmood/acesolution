@@ -144,10 +144,10 @@ const NavBar = () => {
               <Particals />
             </div>
           )}
-          <h2 className="main-heading text-center">
+          <h1 className="main-heading text-center">
             We Build Digital Solutions <br />
             With The Best User Experience.
-          </h2>
+          </h1>
         </div>
       )}
 
@@ -194,7 +194,8 @@ const NavBar = () => {
             ))}
           </ul>
           <div className="d-flex justify-content-center">
-            <button className="btn btn-book-scroll">Book a call</button>
+          <Link
+        to="contact"> <button className="btn btn-book-scroll">Book a call</button> </Link>
           </div>
         </div>
       </div>

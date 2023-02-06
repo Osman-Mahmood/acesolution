@@ -15,7 +15,7 @@ const seo = () => {
           </div>
         </div>
       </div>
-      <div className="container-fluid back">
+      <div className="container-fluid tech">
         <div className="container-xl h-100">
           <div className="row align-items-center h-100">
             <div className="col-sm-12">

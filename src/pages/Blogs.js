@@ -3,7 +3,7 @@ import "../components/Styles/Blogs.css";
 
 const Blogs = () => {
   return (
-    <div>
+    <div className="d-none">
       <div className="container-xl">
         <div className="row pt-40">
           <div className="col-12">
@@ -24,7 +24,7 @@ const Blogs = () => {
                 <div className="blog-style">
                   <div className="card blogs-card">
                     <img
-                      src="https://zaptatech.com/public/uploads/img/1618165512.jpg"
+                      src="https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
                       className="img-responsive w-100 rounded"
                       alt="Here is a blog img"
                     />
@@ -133,13 +133,13 @@ const Blogs = () => {
                     </div>
                   </div>
                   <p className="pt-2"></p>
-                  <p>
+                  <p className="blog_font">
                     When it comes to UI/UX design, ACE Technologies is the best
                     UI/UX design company in Pakistan. We specialize in design,
                     strategy and development to develop an intriguing
                     interfzapta.
                   </p>
-                  <p></p>
+                  <p className="blog_font"></p>
                   <div className="d-flex">
                     <div>
                       <a
@@ -182,7 +182,7 @@ const Blogs = () => {
                 <div className="blog-style">
                   <div className="card blogs-card">
                     <img
-                      src="https://zaptatech.com/public/uploads/img/1618164088.jpg"
+                      src="https://images.unsplash.com/photo-1538688423619-a81d3f23454b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
                       className="img-responsive w-100 rounded"
                       alt="Here is a blog img"
                     />
@@ -291,12 +291,12 @@ const Blogs = () => {
                     </div>
                   </div>
                   <p className="pt-2"></p>
-                  <p>
+                  <p className="blog_font">
                     China, Pakistan, and India, three of Asia's largest software
                     development countries, are among the top seven outsourcing
                     countries for software development in 2021.
                   </p>
-                  <p></p>
+                  <p className="blog_font"></p>
                   <div className="d-flex">
                     <div>
                       <a
@@ -339,7 +339,7 @@ const Blogs = () => {
                 <div className="blog-style">
                   <div className="card blogs-card">
                     <img
-                      src="https://zaptatech.com/public/uploads/img/1618385988.jpg"
+                      src="https://images.unsplash.com/photo-1531538606174-0f90ff5dce83?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
                       className="img-responsive w-100 rounded"
                       alt="Here is a blog img"
                     />
@@ -359,7 +359,7 @@ const Blogs = () => {
                         <a className="no-under text-decoration-none" href="/">
                           <h3 className="">
                             ACE TECHNOLOGIES (PRIVATE) LIMITED – EVERYTHING YOU
-                            NEED TO KNOW ABOUT zapta
+                            NEED TO KNOW ABOUT ACE
                           </h3>
                         </a>
                       </div>
@@ -450,13 +450,13 @@ const Blogs = () => {
                     </div>
                   </div>
                   <p className="pt-2"></p>
-                  <p>
+                  <p className="blog_font">
                     The ACE team helps businesses hailing from a diverse range
                     of industries. We partner with them and build strong
                     relationships using the latest technologies and best
                     practices.
                   </p>
-                  <p></p>
+                  <p className="blog_font"></p>
                   <div className="d-flex">
                     <div>
                       <a
@@ -499,8 +499,9 @@ const Blogs = () => {
                 <div className="blog-style">
                   <div className="card blogs-card">
                     <img
-                      src="https://zaptatech.com/public/uploads/img/1667480600.png"
-                      className="img-responsive w-100 rounded"
+                      src="https://static2.clutch.co/s3fs-public/imce/55092cd79ff984342abb8c1e6e517816.png"
+  
+                      className="img-responsive w-100 clutch"
                       alt="Here is a blog img"
                     />
                     <div className="card-img-overlay">
@@ -610,7 +611,7 @@ const Blogs = () => {
                     </div>
                   </div>
                   <p className="pt-2"></p>
-                  <p>
+                  <p className="blog_font">
                     ACE Technologies is a mission-driven software development
                     company. We help organizations tackle their experience{" "}
                     <a href="/https://clutch.co/directory/mobile-application-developers/packages">
@@ -622,16 +623,16 @@ const Blogs = () => {
                     completion.
                   </p>
 
-                  <p>&nbsp;</p>
+                  <p className="blog_font">&nbsp;</p>
 
-                  <p>
+                  <p className="blog_font">
                     Today, we’re delighted to share that we’ve been included in
                     the{" "}
                     <a href="/https://clutch.co/pk/developers">2022 list of</a>{" "}
                     leaders on Clutch. The B2B platform named us among the top
                     software developers in Pakistan this year!
                   </p>
-                  <p></p>
+                  <p className="blog_font"></p>
                   <div className="d-flex">
                     <div>
                       <a

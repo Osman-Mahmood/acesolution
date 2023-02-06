@@ -4,7 +4,7 @@ import "./SliderStyle.css";
 
 const OurBlogs = () => {
   return (
-    <Link to="blogs" className="text-decoration-none">
+    <Link to="blogs" className="text-decoration-none d-none">
     <div className="main-blog p-lg-5 p-md-5 p-sm-5 p-2 py-5">
       
       <div className="card blog-card" style={{ borderRadius: "15px" }}>

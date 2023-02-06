@@ -25,7 +25,7 @@ const Wordpress = () => {
                 distinctive corporate objectives across a wide variety of areas.{" "}
               </h2>
               <p className="text-white text-center mt-4 mb-0 pb-3">
-                ZAPTA Technologies offer a superior development solution to meet
+                ACE Technologies offer a superior development solution to meet
                 distinctive corporate objectives across a wide variety of areas.
                 Our WordPress development services include producing websites
                 from scratch using WordPress as well as using themes or plugins
@@ -60,8 +60,8 @@ const Wordpress = () => {
         <div className="row pt-5 align-items-center">
           <div className="col-sm-6">
             <img
-              className="img-responsive w-100"
-              src="https://zaptatech.com/public/assets/images/wordpress-theme.png"
+              className="img-responsive w-100 wordpress"
+              src="https://img.freepik.com/free-photo/homepage-seen-computer-screen_23-2149416726.jpg?w=1060&t=st=1675505165~exp=1675505765~hmac=008cf53958010d0dbabc5a69878c95e29aa838f455f4b653c19194a7669de538"
               alt="ZAPTA Technologies worpress"
             />
           </div>
@@ -96,8 +96,8 @@ const Wordpress = () => {
           </div>
           <div className="col-sm-6">
             <img
-              className="img-responsive w-100"
-              src="https://zaptatech.com/public/assets/images/custom-web.png"
+              className="img-responsive w-100 custom"
+              src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80"
               alt="ZAPTA Technologies contact us"
             />
           </div>

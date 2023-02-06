@@ -8,10 +8,10 @@ const About = () => {
         ABOUT US
       </h1>
       <div className="container-fluid img">
-        <div className="row align-items-center" id="about-sec1">
-          <div className="w-75 me-auto ms-auto">
+        <div className="row align-items-center">
+          <div className="w-75 me-auto ms-auto miss">
             <h2 className="text-center fs-48 text-white mt-5">Mission</h2>
-            <p className="text-white text-center mt-5 mb-4 mission">
+            <p className="text-white text-center mt-2 mb-4 mission">
               Our mission is to develop innovative and AI powered software
               solutions that enhance business stability and gain a reliable
               competitive advantage in the marketplace. We are endeavoring with
@@ -25,8 +25,8 @@ const About = () => {
       <div className="container-xl mt-5">
         <div className="row mt-61 mb-60 align-items-center">
           <div className="col-sm-6">
-            <h3 className="fs-48 vision text-center">Vision</h3>
-            <p className="mt-4 fs-22 fw-3">
+            <h2 className="vision">Vision</h2>
+            <p className="mt-4">
               To bring out the revolutionary services in the market by becoming
               a supreme software solution providing company for all businesses
               around the globe. ACE Technologies focuses on developing software
@@ -38,8 +38,8 @@ const About = () => {
           </div>
           <div className="col-sm-6 bg-col2 pe-0">
             <img
-              className="img-responsive w-100 float-end"
-              src={require("../assets/images/vision_img.png")}
+              className="img-responsive w-100 float-end about1"
+              src="https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
               alt="ACE Techbologie's vision"
               height="350px"
             />
@@ -47,14 +47,14 @@ const About = () => {
         </div>
       </div>
 
-      <div className="container-fluid img mt-5">
+      <div className="container-fluid img2 mt-5">
         <div
           className="row align-items-center justify-content-center"
           id="about-sec2"
         >
           <div className="col-sm-10">
             <h3 className="fs-48 text-center text-white mt-5">What is ACE?</h3>
-            <p className="text-center fs-24 text-white pt-3">
+            <p className="text-center fs-24 text-white mt-2 mission">
               ACE stands for Zone of Advance Platforms and Tech Applications.
               ACE Technologies produces high-quality, scalable, secure, and
               cost-effective holistic lifecycle solutions to satisfy the needs
@@ -74,7 +74,7 @@ const About = () => {
       <div className="container-xl">
         <div className="row mt-101 mb-57">
           <div className="col-sm-12">
-            <h2 className="mt-5 text-center">What We Do</h2>
+            <h2 className="mt-5">What We Do</h2>
             <p className="fs-22 pt-3">
               ACE Technologies is one of the leading companies that completely
               understand and deliver the best solutions to the issues that
@@ -94,9 +94,9 @@ const About = () => {
           <div className="col-md-4 mb-3">
             <div className="card whatwedo-card h-100 w-100">
               <div className="card-body">
-                <h5 className="card-title whatwedo-title text-center mb-4">
-                  Striving for Excellence
-                </h5>
+                <h2 className="card-title whatwedo-title text-center mb-4">
+                  Striving for<br /> Excellence
+                </h2>
                 <p className="card-text text-center whatwedo-text">
                   ACE Technologies Enabling Organizations to Digital
                   Transformation. Our professionals ensure that each of their
@@ -109,9 +109,9 @@ const About = () => {
           <div className="col-md-4 mb-3">
             <div className="card whatwedo-card h-100 w-100">
               <div className="card-body">
-                <h5 className="card-title whatwedo-title text-center mb-4">
+                <h2 className="card-title whatwedo-title text-center mb-4">
                   High Ownership Susceptibility
-                </h5>
+                </h2>
                 <p className="card-text text-center whatwedo-text">
                   We maintain that every employee must have an ownership
                   quotient in order to have a participatory attitude. Our highly
@@ -125,11 +125,11 @@ const About = () => {
           <div className="col-md-4 mb-3">
             <div className="card whatwedo-card h-100 w-100">
               <div className="card-body">
-                <h5 className="card-title whatwedo-title text-center mb-4">
+                <h2 className="card-title whatwedo-title text-center mb-4">
                   Influential
                   <br />
                   Leadership
-                </h5>
+                </h2>
                 <p className="card-text text-center whatwedo-text">
                   We emphasize achieving successful outcomes. To get efficient
                   results, we combine deep functional expertise, worldwide
@@ -143,7 +143,7 @@ const About = () => {
       <div className="container-xl mt-5 mb-5">
         <div className="row align-items-center">
           <div className="col-sm-6">
-            <h3 className="fs-36 fw-5">ACE Clients</h3>
+            <h2 className="fs-36 fw-5">ACE Clients</h2>
             <p className="client-msg">
               We deal with clients all over the globe, including the United
               Kingdom, the United States, France, Belgium, Australia, Saudi

@@ -58,3 +58,15 @@
   background-color: #324894 !important;
   border-radius: 50px !important;
 }
+.rounded{
+  border-radius: 10px !important;
+    height: 271px !important;
+    object-fit: cover !important;
+}
+.clutch{
+  height: 271px !important;
+  object-fit: contain;
+}
+.blog_font{
+  font-size: 16px !important;
+}

@@ -99,8 +99,8 @@ const Bussiness = () => {
         <div className="row pt-5 align-items-center">
           <div className="col-sm-6">
             <img
-              className="img-responsive w-100"
-              src="https://zaptatech.com/public/assets/images/tech1.png"
+              className="img-responsive w-100 deliver"
+              src="https://img.freepik.com/free-photo/paper-analysis_1098-15678.jpg?w=900&t=st=1675504821~exp=1675505421~hmac=6ce83774505ae87c1b350d9690952d1b71121227d896ed43d57e3e3ea89df532"
               alt="ZAPTA Technologies worpress"
             />
           </div>

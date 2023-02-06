@@ -97,7 +97,7 @@
 }
 
 .background-image {
-  background-image: url("../../assets/images/bg-min.jpg");
+  background-image: url("https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;

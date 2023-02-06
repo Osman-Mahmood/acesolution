@@ -97,10 +97,10 @@ const Footer = () => {
             <div className="col-xl-3 col-lg-3 col-md-6 mt-5 service">
               <div>
                 <h4>Contact Info</h4>
-                <ul className="list-unstyled pt-1">
+                <ul className="list-unstyled pt-1 footer-desc">
                   <li className="d-flex pt-3">
                     <i className="bi bi-geo-alt"></i>
-                    <p className="mx-2 text-wrap text-start area">
+                    <p className="mx-2 text-wrap text-start area ">
                       240 FF, DHA Phase 4, Lahore, Pakistan
                     </p>
                   </li>
@@ -209,7 +209,7 @@ const Footer = () => {
             <div className="container-xl">
               <div className="row">
                 <div className="col-lg-6 col-xm-12 text-white pt-4 term">
-                  <p className="text-white fs-14">
+                  <p className="text-white footer-desc fs-14">
                     © 2021 ACE Technologies. All Rights Reserved.
                   </p>
                 </div>

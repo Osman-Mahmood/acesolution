@@ -38,9 +38,9 @@ const LearnMoreUI = () => {
           </div>
           <div className="col-sm-6">
             <img
-              className="img-responsive w-100"
-              src="https://zaptatech.com/public/assets/images/education1.png"
-              alt="Zapta Technologies facilitating Educational Industry"
+              className="img-responsive w-100 first"
+              src="https://images.unsplash.com/photo-1513258496099-48168024aec0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+              alt="ACE Technologies facilitating Educational Industry"
             />
           </div>
         </div>
@@ -75,8 +75,8 @@ const LearnMoreUI = () => {
           </div>
           <div className="col-sm-6">
             <img
-              className="img-responsive w-100"
-              src="https://zaptatech.com/public/assets/images/education2.png"
+              className="img-responsive w-100 second"
+              src="https://images.unsplash.com/photo-1524178232363-1fb2b075b655?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
               alt="Zapta tech Educational Software Development"
             />
           </div>
@@ -88,7 +88,7 @@ const LearnMoreUI = () => {
           <div className="col-sm-6">
             <img
               className="img-responsive w-100"
-              src="https://zaptatech.com/public/assets/images/education3.png"
+              src="https://img.freepik.com/premium-vector/isometric-3d-online-exam-course-concept_82472-58.jpg?w=900"
               alt="Zapta develops Learning Management Systems"
             />
           </div>
@@ -248,7 +248,7 @@ const LearnMoreUI = () => {
           <div className="col-sm-6">
             <img
               className="img-responsive w-100"
-              src="https://zaptatech.com/public/assets/images/education4.png"
+              src="https://img.freepik.com/free-vector/teem-discussing-project-kanban-board_1262-19963.jpg?w=900&t=st=1675455561~exp=1675456161~hmac=2639a50fab633b25b50c7648d47421a18b62fd7b4b19668a6997e267d691f455"
               alt="Zapta tech develops Software for Corporate Training"
             />
           </div>
@@ -351,8 +351,8 @@ const LearnMoreUI = () => {
         <div className="row pt-132 justify-content-center align-items-center">
           <div className="col-sm-6">
             <img
-              className="img-responsive w-100"
-              src="https://zaptatech.com/public/assets/images/LMS.png"
+              className="img-responsive w-100 third"
+              src="https://img.freepik.com/free-photo/diverse-people-working-office_53876-104681.jpg?w=1060&t=st=1675455727~exp=1675456327~hmac=d4b85e939d01a59852738c7b9aad106c96add8b9d7432a92b2ba6923975b7e4a"
               alt="Educational Platform Development"
             />
           </div>
@@ -517,7 +517,7 @@ const LearnMoreUI = () => {
           <div className="col-sm-6">
             <img
               className="img-responsive w-100"
-              src="https://zaptatech.com/public/assets/images/SMS.png"
+              src="https://img.freepik.com/premium-vector/online-education-distance-exam-test-with-isometric-character-internet-course-e-learning-from-home-girl-boy-examing-test-computer-with-stopwatch-isometric-education_108855-1822.jpg?w=740"
               alt="ZAPTA software company developing School Management System"
             />
           </div>

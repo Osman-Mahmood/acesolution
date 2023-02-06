@@ -1,5 +1,5 @@
 import React from "react";
-
+import './HealthStyles.css'
 const HealthComp = () => {
   return (
     <>
@@ -34,9 +34,9 @@ const HealthComp = () => {
           </div>
           <div className="col-sm-6">
             <img
-              className="img-responsive w-100"
-              src="https://zaptatech.com/public/assets/images/DOC1.png"
-              alt="ZAPTA Technologies offering reliable healthcare software solutions"
+              className="img-responsive w-100 health_img"
+              src="https://img.freepik.com/premium-vector/people-are-developing-new-drugs-technology-medical-treatment-vector-isometric-illustration_432516-2563.jpg?w=996"
+              alt="ACE Technologies offering reliable healthcare software solutions"
             />
           </div>
         </div>
@@ -72,7 +72,7 @@ const HealthComp = () => {
           <div className="col-sm-6">
             <img
               className="img-responsive w-100"
-              src="https://zaptatech.com/public/assets/images/DOC2.png"
+              src="https://img.freepik.com/premium-vector/doctor-shows-patient-how-use-application-maintain-health-health-care-concept-3d-isometric_130740-21.jpg?w=900"
               alt="Electronic Health Record Software"
             />
           </div>
@@ -269,8 +269,8 @@ const HealthComp = () => {
           <div className="col-sm-6">
             <img
               className="img-responsive w-100"
-              src="https://zaptatech.com/public/assets/images/DOC3.png"
-              alt="ZAPTA Develops: Telehealth and Telemedicine Software"
+              src="https://img.freepik.com/free-vector/online-medicine-concept-with-people-consulting-doctor-3d-isometric_1284-31062.jpg?w=740&t=st=1675457470~exp=1675458070~hmac=7e3c178bbc404c777e1f7965ea11448dcba1ba658485efafef8be9b0e9ba1b38"
+              alt="ACE Develops: Telehealth and Telemedicine Software"
             />
           </div>
           <div className="col-sm-6">
@@ -436,7 +436,7 @@ const HealthComp = () => {
           <div className="col-sm-6">
             <img
               className="img-responsive w-100"
-              src="https://zaptatech.com/public/assets/images/DOC4.png"
+              src="https://img.freepik.com/free-vector/isometric-biometric-identification-template-with-scientist-using-retina-authentication-laboratory-access_1284-34486.jpg?w=826&t=st=1675457576~exp=1675458176~hmac=2ce54e6bfaafd766c865d0290ca4b8ec9c8d6cdc997d88c7852ad818e83cec3a"
               alt="Laboratory Information Management System"
             />
           </div>
@@ -631,8 +631,8 @@ const HealthComp = () => {
         <div className="row pt-5 justify-content-center align-items-center">
           <div className="col-sm-6">
             <img
-              className="img-responsive w-100"
-              src="https://zaptatech.com/public/assets/images/DOC5.png"
+              className="img-responsive w-100 health_img2"
+              src="https://img.freepik.com/free-photo/jacket-doctor-young-adult-serious-stylish_1134-1428.jpg?w=900&t=st=1675457702~exp=1675458302~hmac=3d375f2b15f1082790da0c651cc6d1997dbf46169acd3ec53cf205b2e5f05011"
               alt="Hospital and Practice Management Systems"
             />
           </div>
@@ -666,7 +666,7 @@ const HealthComp = () => {
             </div>
           </div>
         </div>
-        <div className="row  pt-5 justify-content-center">
+        <div className="row mb-5 pt-5 justify-content-center">
           <div className="col-sm-6 col-md-3 mt_ipad-25">
             <div className="card edu_cards text-center h-100">
               <div className="card-body">

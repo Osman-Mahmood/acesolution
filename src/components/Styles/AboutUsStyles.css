@@ -1,14 +1,21 @@
 .img {
-  background-image: url("https://zaptatech.com/public/assets/images/About-sec1.png");
-  width: 100%;
+  /* background-image: url(""); */
+  background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgb(7 5 5 / 97%)), url(https://images.unsplash.com/photo-1529156069898-49953e39b3ac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80);
   background-repeat: no-repeat;
   justify-content: center;
   opacity: 1;
   background-position: center;
-  background-size: cover;
+  background-size: cover !important;
   /* height: 450px; */
 }
-
+.img2{
+  background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgb(7 5 5 / 97%)), url(https://images.unsplash.com/photo-1529156069898-49953e39b3ac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80);
+  background-repeat: no-repeat;
+  justify-content: center;
+  opacity: 1;
+  background-position: center;
+  background-size: cover !important;
+}
 .mission {
   font-size: 27px;
   color: black;
@@ -48,7 +55,24 @@
   line-height: 134.34%;
   color: #000000;
 }
-
+.about1{
+  border-radius: 26% 72% 16% 62%/51% 40% 60% 40%;
+  filter: drop-shadow(-10px -10px 10px #eff6fe);
+}
 .padding-top {
   padding-top: 50px;
+}
+@media screen and (max-width: 600px) {
+  /* .img{
+    height: 500px !important;
+  }
+  .img2{
+    height:600px !important
+  } */
+  .mission{
+    margin-top: 0px !important;
+  }
+  .miss{
+    width: 100% !important;
+  }
 }

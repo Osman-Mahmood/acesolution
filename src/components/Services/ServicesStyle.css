@@ -9,7 +9,12 @@
   max-width: 270px !important;
   margin-bottom: 10px;
 }
-
+.tech{
+  height: 538px;
+  background-image: linear-gradient(rgb(8 6 6 / 53%), rgb(7 5 5 / 97%)), url(https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 .back {
   height: 538px;
   background-image: url("https://zaptatech.com/public/assets/images/tech-writing.png");
@@ -18,39 +23,39 @@
 }
 .web_back{
   height: 538px;
-  background-image: url("https://zaptatech.com/public/assets/images/web-sec1.png");
+  background-image: linear-gradient(rgb(8 6 6 / 53%), rgb(7 5 5 / 97%)), url(https://images.unsplash.com/photo-1457305237443-44c3d5a30b89?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=874&q=80);
   background-repeat: no-repeat;
   background-size: cover;
 }
 .mob_back{
   height: 538px;
-  background-image: url("https://zaptatech.com/public/assets/images/mob-sec1-bg.png");
+  background-image:linear-gradient(rgb(8 6 6 / 53%), rgb(7 5 5 / 97%)), url("https://images.unsplash.com/photo-1558655146-364adaf1fcc9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80s");
   background-repeat: no-repeat;
   background-size: cover;
 }
 .sqa_back{
   height: 538px;
-  background-image: url("https://zaptatech.com/public/assets/images/quality.png");
+  background-image:linear-gradient(rgb(8 6 6 / 53%), rgb(7 5 5 / 97%)), url("https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
   background-repeat: no-repeat;
   background-size: cover;
 }
 .busi_back{
   height: 538px;
-  background-image: url("https://zaptatech.com/public/assets/images/business-intelligence.png");
+  background-image:linear-gradient(rgb(8 6 6 / 53%), rgb(7 5 5 / 97%)), url("https://img.freepik.com/free-photo/businesswoman-using-tablet-analysis-graph-company-finance-strategy-statistics-success-concept-planning-future-office-room_74952-1410.jpg?w=996&t=st=1675504683~exp=1675505283~hmac=5d5ef0172a6320be147a8908fe8ab19ed2cc42b09ac414eacaf043d82869daaa");
   background-repeat: no-repeat;
   background-size: cover;
 }
 .word_back{
   height: 538px;
-  background-image: url("https://zaptatech.com/public/assets/images/wordpress-dev.png");
+  background-image: linear-gradient(rgb(24 13 13 / 50%), rgb(7 5 5 / 97%)),url("https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
   background-repeat: no-repeat;
   background-size: cover;
 }
 .uiux_back{
-  height: 538px;
-  background-image: url("https://zaptatech.com/public/assets/images/mob-sec1-bg.png");
+  background-image: linear-gradient(rgb(24 13 13 / 50%), rgb(7 5 5 / 97%)),url(https://images.unsplash.com/photo-1609921212029-bb5a28e60960?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=852&q=80);
   background-repeat: no-repeat;
   background-size: cover;
+  height: 538px;
 }
 .card.quality-assureance-tools {
   background: #ffffff;
@@ -69,4 +74,75 @@
   box-shadow: 0px 0px 4px rgb(0 0 0 / 10%);
   border-radius: 20px;
   height: 198px !important;
+}
+.wire_img{
+  border-radius: 70% 30% 30% 70%/60% 40% 60% 40%;
+  filter: drop-shadow(-10px -10px 10px #eff6fe);
+}
+.ios{
+  border-radius: 60% 40% 60% 40%/70% 30% 30% 70%;
+  filter: drop-shadow(-10px -10px 10px #eff6fe);
+  height: 300px;
+}
+.android{
+  border-radius: 60% 40% 60% 40%/70% 30% 30% 70%;
+  filter: drop-shadow(-10px -10px 10px #eff6fe);
+  height: 300px;
+  object-fit: cover;
+  background-size: cover !important;
+  background-repeat: no-repeat;
+}
+.hybrid{
+  border-radius: 60% 40% 60% 40%/70% 30% 30% 70%;
+  filter: drop-shadow(-10px -10px 10px #eff6fe);
+  height: 300px;
+  object-fit: cover;
+  background-size: cover !important;
+  background-repeat: no-repeat;
+}
+.trad{
+  border-radius:70% 30% 30% 70%/ 60% 40% 60% 40%;
+  filter: drop-shadow(-10px -10px 10px #eff6fe);
+}
+.agile{
+  border-radius:70% 30% 30% 70%/ 60% 40% 60% 40%;
+  filter: drop-shadow(-10px -10px 10px #eff6fe);
+}
+.devops{
+  border-radius:70% 30% 30% 70%/ 60% 40% 60% 40%;
+  filter: drop-shadow(-10px -10px 10px #eff6fe);
+}
+.deliver{
+  border-radius: 20px;
+}
+.wordpress{
+  border-radius:40% 10% 10% 40%/ 30% 10% 20% 20%;
+  filter: drop-shadow(-10px -10px 10px #eff6fe);
+}
+.custom{
+  border-radius:20% 10% 10% 20%/ 60% 40% 60% 40%;
+  filter: drop-shadow(-10px -10px 10px #eff6fe);
+}
+.srs{
+  border-radius:20% 10% 10% 20%/ 60% 40% 60% 40%;
+  filter: drop-shadow(-10px -10px 10px #eff6fe);
+}
+.sda{
+  border-radius:70% 30% 30% 70%/ 60% 40% 60% 40%;
+  filter: drop-shadow(-10px -10px 10px #eff6fe);
+}
+.product{
+  border-radius: 20px;
+}
+.content{
+  border-radius:70% 30% 30% 70%/ 60% 40% 60% 40%;
+  filter: drop-shadow(-10px -10px 10px #eff6fe);
+}
+@media screen and (max-width: 768px) {
+  .services-card{
+    min-width: 370px !important;
+  }
+  .uiux_back,.web_back,.mob_back,.sqa_back,.busi_back,.word_back,.tech{
+    height: auto;
+  }
 }

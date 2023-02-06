@@ -166,7 +166,7 @@ const Canvas = () => {
       <h2 className="text-center">Our Expertise</h2>
       <p className="text-center">
         Our years of working experience in software design and development
-        allowed <br />
+        allowed <br className="no"/>
         us to develop scalable, secure, and interactive solutions.
       </p>
       <div className="d-flex flex-wrap justify-content-center pad p-5">

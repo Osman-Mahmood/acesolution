@@ -32,7 +32,7 @@ function CloudComp() {
                     </p>
                 </div>
                 <div className="col-sm-6">
-                    <img className="img-responsive w-100" src="https://zaptatech.com/public/assets/images/Data1.png" alt="Zapta raises Importance of Data" />
+                    <img className="img-responsive w-100 data1" src="https://img.freepik.com/free-photo/businessman-pointing-his-presentation-futuristic-digital-screen_53876-102617.jpg?w=900&t=st=1675459353~exp=1675459953~hmac=2203cf8c819535e26337ba1321c3a4c1b0768704effb94e789fd5e9d66dab194" alt="Zapta raises Importance of Data" />
                 </div>
             </div>
         </div>
@@ -58,7 +58,7 @@ function CloudComp() {
                     </div>
                 </div>
                 <div className="col-sm-6">
-                    <img className="img-responsive w-100" src="https://zaptatech.com/public/assets/images/Data2.png" alt="Zapta Technologies Providing services in BIG DATA Useability" />
+                    <img className="img-responsive w-100 data2" src="https://img.freepik.com/free-photo/data-center-with-server-racks-corridor-room-3d-render-digital-data-cloud-technology_482257-27722.jpg?w=900&t=st=1675459514~exp=1675460114~hmac=10c5e8156a1f164d08cad7705d1faaad2a3d52612e07ac5015ec8676fc778fac" alt="Zapta Technologies Providing services in BIG DATA Useability" />
                 </div>
             </div>
         </div>
@@ -143,7 +143,7 @@ function CloudComp() {
        
             <div className="row pt-5 justify-content-center align-items-center">
                 <div className="col-sm-6">
-                    <img className="img-responsive w-100" src="https://zaptatech.com/public/assets/images/Data3.png" alt="Zapat software Company provides serices in Data Science" />
+                    <img className="img-responsive w-100 data3" src="https://img.freepik.com/free-photo/ai-nuclear-energy-background-future-innovation-disruptive-technology_53876-129783.jpg?w=900&t=st=1675459660~exp=1675460260~hmac=f2596da5ae49f4f23789f38ff214ff134a6d70922e4f81577b601c35dba4e666" alt="Zapat software Company provides serices in Data Science" />
 
                 </div>
                 <div className="col-sm-6">
@@ -241,7 +241,7 @@ function CloudComp() {
                 </div>
              
                 <div className="col-sm-6">
-                    <img className="img-responsive w-100" src="https://zaptatech.com/public/assets/images/Data4.png" alt="ZAPTA software Company deals in Data Analytics" />
+                    <img className="img-responsive w-100" src="https://img.freepik.com/free-vector/statistics-concept-illustration_114360-172.jpg?w=900&t=st=1675459860~exp=1675460460~hmac=c62ba2a2edf5949974ab33958bbd158a3b6deb78ffd1b6e7cafcb8821e33177a" alt="ZAPTA software Company deals in Data Analytics" />
 
                 </div>
             </div>
@@ -334,7 +334,7 @@ function CloudComp() {
             <div className="row pt-5 justify-content-center align-items-center">
               
                 <div className="col-sm-6">
-                    <img className="img-responsive w-100" src="https://zaptatech.com/public/assets/images/Data5.png" alt="Intelligence in
+                    <img className="img-responsive w-100" src="https://img.freepik.com/free-vector/server-status-concept-illustration_114360-1106.jpg?w=740&t=st=1675460071~exp=1675460671~hmac=c17e04c9d18462fc44a82c9230654a818f53f3a616d17e318bd18ea5d229bf10" alt="Intelligence in
                             Fintech" />
 
                 </div>

@@ -16,7 +16,7 @@ const Technical = () => {
           </div>
         </div>
       </div>
-      <div className="container-fluid back">
+      <div className="container-fluid tech">
         <div className="container-xl h-100">
           <div className="row align-items-center h-100">
             <div className="col-sm-12">
@@ -57,8 +57,8 @@ const Technical = () => {
         <div className="row pt-5 align-items-center">
           <div className="col-sm-6">
             <img
-              className="img-responsive w-100"
-              src="https://zaptatech.com/public/assets/images/tech1.png"
+              className="img-responsive w-100 srs"
+              src="https://img.freepik.com/free-photo/health-safety-policy-statement-form-concept_53876-132299.jpg?w=996&t=st=1675505802~exp=1675506402~hmac=19125b0fbe48c10e2372bbd0a3be84558613ceb412ec1ed3525e381fd1d7cf76"
               alt="ZAPTA Technologies worpress"
             />
           </div>
@@ -106,8 +106,8 @@ const Technical = () => {
           </div>
           <div className="col-sm-6">
             <img
-              className="img-responsive w-100"
-              src="https://zaptatech.com/public/assets/images/tech2.png"
+              className="img-responsive w-100 sda"
+              src="https://img.freepik.com/free-photo/young-business-lady-female-director-sitting-office-desk-with-documents-working-process-business-meeting-working-with-colleague-solving-business-tasks-office-collective-concept_141793-21312.jpg?t=st=1675505793~exp=1675506393~hmac=d756905317824841d2693497ad6235c8bb7fb4c29eb15fc50468fd472362b43a"
               alt="ZAPTA Technologies worpress"
             />
           </div>
@@ -115,8 +115,8 @@ const Technical = () => {
         <div className="row pt-100 align-items-center">
           <div className="col-sm-6">
             <img
-              className="img-responsive w-100"
-              src="https://zaptatech.com/public/assets/images/tech3.png"
+              className="img-responsive w-100 product"
+              src="https://images.unsplash.com/photo-1434626881859-194d67b2b86f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=874&q=80"
               alt="ZAPTA Technologies worpress"
             />
           </div>
@@ -157,8 +157,8 @@ const Technical = () => {
           </div>
           <div className="col-sm-6">
             <img
-              className="img-responsive w-100"
-              src="https://zaptatech.com/public/assets/images/tech4.png"
+              className="img-responsive w-100 content"
+              src="https://img.freepik.com/free-photo/content-concept-laptop-screen_53876-13531.jpg?w=826&t=st=1675506223~exp=1675506823~hmac=f17a0912c8cdf950e2aeee9ce46bdac10a3c566aa03b537709cb2b053968f3ca"
               alt="ZAPTA Technologies worpress"
             />
           </div>

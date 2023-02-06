@@ -117,8 +117,8 @@ const Sqa = () => {
         <div className="row mt-5 mb-60 align-items-center">
           <div className="col-sm-5">
             <img
-              className="img-responsive w-100"
-              src="https://zaptatech.com/public/assets/images/Testing-tradational.png"
+              className="img-responsive w-100 trad"
+              src="https://images.unsplash.com/photo-1573164574572-cb89e39749b4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80"
               alt="ZAPTA Technologies:Traditional Software Testing"
             />
           </div>
@@ -150,8 +150,8 @@ const Sqa = () => {
           </div>
           <div className="col-sm-5 pl-5">
             <img
-              className="img-responsive w-100"
-              src="https://zaptatech.com/public/assets/images/agile-pic.png"
+              className="img-responsive w-100 agile"
+              src="https://img.freepik.com/free-photo/focused-team-leader-presenting-marketing-plan-interested-multiracial-coworkers-serious-speaker-boss-executive-business-trainer-explaining-development-strategy-motivated-mixed-race-employees_482257-13781.jpg?w=1060&t=st=1675504499~exp=1675505099~hmac=9fd6a43624c5185f67abbc392a2805602c5d41df022f58f24a4720b36cc24298"
               alt="ZAPTA Technologies: Agile Testing"
             />
           </div>
@@ -159,8 +159,8 @@ const Sqa = () => {
         <div className="row mt-5 mb-5 align-items-center">
           <div className="col-sm-5">
             <img
-              className="img-responsive w-100"
-              src="https://zaptatech.com/public/assets/images/devop-testing.png"
+              className="img-responsive w-100 devops"
+              src="https://img.freepik.com/free-photo/standard-quality-control-collage_23-2149631012.jpg?w=900&t=st=1675504603~exp=1675505203~hmac=067dad8112db56497a9d2a580aacf5ea296996f62481e98ac6dffb7460f868ae"
               alt="DevOps Testing by Zaptatech"
             />
           </div>

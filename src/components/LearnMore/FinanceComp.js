@@ -30,7 +30,7 @@ const FinanceComp = () => {
                     </p>
                 </div>
                 <div className="col-sm-6">
-                    <img className="img-responsive w-100" src="https://zaptatech.com/public/assets/images/FT1.png" alt="Zapta provides Customised Fintech solutions tailored to satisfy customers" />
+                    <img className="img-responsive w-100 fin_1" src="https://img.freepik.com/free-vector/tablet-bank-card-manager-using-banking-software-transactions-core-banking-it-system-banking-software-it-service-concept_335657-426.jpg?w=900&t=st=1675458142~exp=1675458742~hmac=b1b6f6ce28e88608a5c7562da13bb765284bf24af1c3f818a40c709e9c1700eb" alt="Zapta provides Customised Fintech solutions tailored to satisfy customers" />
                 </div>
             </div>
         </div>
@@ -57,7 +57,7 @@ const FinanceComp = () => {
                     </div>
                 </div>
                 <div className="col-sm-6">
-                    <img className="img-responsive w-100" src="https://zaptatech.com/public/assets/images/FT2.png" alt="ZAPTA Technologies provides Custom Fintech Software" />
+                    <img className="img-responsive w-100" src="https://img.freepik.com/free-vector/analysis-financial-activities-online-service-platform-business-character-reviewing-company-s-financial-operation-online-software-flat-vector-illustration_613284-52.jpg?w=740&t=st=1675458299~exp=1675458899~hmac=3958867b54f5e73ea04a8aa35eafab28341197ad0cf5711ad439e3bccc3c055f" alt="ZAPTA Technologies provides Custom Fintech Software" />
 
                 </div>
             </div>
@@ -173,7 +173,7 @@ const FinanceComp = () => {
           
             <div className="row pt-5 justify-content-center align-items-center">
                 <div className="col-sm-6">
-                    <img className="img-responsive w-100" src="https://zaptatech.com/public/assets/images/FT3.png" alt="ZAPTA providing Intelligent CRM Solutions" />
+                    <img className="img-responsive w-100 fin_2" src="https://img.freepik.com/free-photo/finger-interface-laptop-hipster-cropped_1134-770.jpg?w=900&t=st=1675458469~exp=1675459069~hmac=f27a7b4f727d6b7c5b876d514c84e4650f97885f083adec1aa7aa25f009d2438" alt="ACE providing Intelligent CRM Solutions" />
 
                 </div>
                 <div className="col-sm-6">
@@ -313,7 +313,7 @@ const FinanceComp = () => {
                 </div>
           
                 <div className="col-sm-6">
-                    <img className="img-responsive w-100" src="https://zaptatech.com/public/assets/images/FT4.png" alt="Zapta builds and deploys RegTech Solutions" />
+                    <img className="img-responsive w-100 fin_3" src="https://img.freepik.com/free-photo/standard-quality-control-collage-concept_23-2149595830.jpg?w=900&t=st=1675458761~exp=1675459361~hmac=c5e637d0378892ff2ac96a9811b253c60cf9f7e2e9b89270ca1291ea0143e9be" alt="Zapta builds and deploys RegTech Solutions" />
 
                 </div>
             </div>
@@ -379,7 +379,7 @@ const FinanceComp = () => {
             <div className="row pt-5 justify-content-center align-items-center">
              
                 <div className="col-sm-6">
-                    <img className="img-responsive w-100" src="https://zaptatech.com/public/assets/images/FT5.png" alt="Accounting and Financial Management Systems" />
+                    <img className="img-responsive w-100 fin_4" src="https://img.freepik.com/free-photo/manager-working-office-two-monitors-evening-businessman-with-data-pc-screens_482257-32820.jpg?w=1060&t=st=1675459060~exp=1675459660~hmac=e02bd070f4a7644bfa9c9867653e9d31cd7ed7efefc0fbafe3face18155b551e" alt="Accounting and Financial Management Systems" />
 
                 </div>
              

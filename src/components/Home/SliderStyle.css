@@ -105,5 +105,13 @@
   margin-top: 20px;
   padding: 0 !important;
 }
-
+.solutions-sec,.solutions-sec p{
+  padding: 0px !important;
+}
+.expertise-sec{
+padding: 0px !important;
+}
+.no{
+  display: none !important;
+}
 }

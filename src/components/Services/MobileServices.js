@@ -22,14 +22,14 @@ const MobileServices = () => {
         <div className="container-xl h-100">
             <div className="row align-items-center h-100">
                 <div className="col-sm-12 text-center">
-                    <h2 className="mt-5 text-white">We are specialized in both native and <br />cross-platform mobile
+                    <h2 className="mt-5 text-white">We are specialized in both native and <br className='no' />cross-platform mobile
                         application development</h2>
                     <p className="text-white text-center mt-4 mb-0 pb-3">Our in-house developers and designers
-                        are always striving to create quality mobile applications that are <br /> pixel-perfect. Our
+                        are always striving to create quality mobile applications that are <br className='no'/> pixel-perfect. Our
                         application designers concentrate on innovation and originality as well as its responsiveness
-                        <br /> and usability. Research shows that most people spent about a quarter of their day on their
-                        smartphones, with <br /> apps accounting for 92 percent of that time. That’s why our mobile
-                        application development team creates<br /> applications that capture the interest of their
+                        <br className='no'/> and usability. Research shows that most people spent about a quarter of their day on their
+                        smartphones, with <br className='no'/> apps accounting for 92 percent of that time. That’s why our mobile
+                        application development team creates<br className='no'/> applications that capture the interest of their
                         end-users.</p>
                 </div>
             </div>
@@ -44,10 +44,10 @@ const MobileServices = () => {
         </div>
         <div className="row mt-5 mb-5 align-items-center">
             <div className="col-sm-6">
-                <img className="img-responsive w-100" src="https://zaptatech.com/public/assets/images/ios-app.png" alt="ACE Techbologies: iOS App Development services" />
+                <img className="img-responsive w-100 ios" src="https://images.unsplash.com/photo-1598698287642-9ceaf9a7a011?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=762&q=80" alt="ACE Techbologies: iOS App Development services" />
             </div>
             <div className="col-sm-6 pL-5">
-                <h3 className="sm-fs-24 text-dark">iOS App Development</h3>
+                <h3 className="sm-fs-24 text-dark mt-3">iOS App Development</h3>
                 <h4 className="text-primary">Architecture, design, and programming</h4>
                 <p className="mt-4">Our iOS architecture, design, and programming follow iOS
                     guidelines to the highest quality standards at all times. The solutions created and produced are
@@ -62,7 +62,7 @@ const MobileServices = () => {
     <div className="container-xl">
         <div className="row mt-5 mb-5align-items-center">
             <div className="col-sm-6">
-                <h3 className="text-dark">Android App Development</h3>
+                <h3 className="text-dark mt-3">Android App Development</h3>
                 <h4 className="text-primary">Process-oriented techniques</h4>
                 <p className="mt-4">ZAPTA Technologies' Android app development is open,
                     adaptable, and always provides process-oriented techniques to ensure that the app meets
@@ -75,7 +75,7 @@ const MobileServices = () => {
                     applications.</p>
             </div>
             <div className="col-sm-6 bg-col2 pe-0 pl-5">
-                <img className="img-responsive w-100" src="https://zaptatech.com/public/assets/images/android.png" alt="ACE Techbologies Android App Development services" />
+                <img className="img-responsive w-100 android" src="https://images.unsplash.com/photo-1611175694989-4870fafa4494?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=374&q=80" alt="ACE Techbologies Android App Development services" />
             </div>
 
 
@@ -85,10 +85,10 @@ const MobileServices = () => {
     <div className="container-xl">
         <div className="row mt-5 mb-5 align-items-center">
             <div className="col-sm-6 bg-col2 pe-0">
-                <img className="img-responsive w-100" src="https://zaptatech.com/public/assets/images/hybrid-app.png" alt="ACE Techbologie's Hybrid Mobile App Development" />
+                <img className="img-responsive w-100 hybrid" src="https://images.unsplash.com/photo-1542744173-8e7e53415bb0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" alt="ACE Techbologie's Hybrid Mobile App Development" />
             </div>
             <div className="col-sm-6 pl-81">
-                <h3 className="text-dark">Hybrid Mobile App Development</h3>
+                <h3 className="text-dark mt-3">Hybrid Mobile App Development</h3>
                 <h4 className="text-primary">Modernized and structured frameworks </h4>
                 <p className="mt-4">Our mobile app developers also create hybrid mobile apps
                     that are designed to run on multiple platforms. We have experts of Flutter on board who create

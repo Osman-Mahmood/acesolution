@@ -2,7 +2,9 @@
   background-color: #21212b;
   color: white;
 }
-
+.footer-desc,.footer-desc p{
+  font-size: 15px !important;
+}
 i {
   color: white;
 }

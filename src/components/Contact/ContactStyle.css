@@ -12,7 +12,7 @@
   color: #0d6efd;
 }
 #home_img {
-  background-image: url("../../assets/contact-images/pak.png");
+  background-image:linear-gradient(rgba(255, 255, 255, 0.5), rgb(7 5 5 / 97%)), url("https://images.unsplash.com/photo-1507699622108-4be3abd695ad?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -24,7 +24,7 @@
   transition: all 0.5s cubic-bezier(0.165, 0.84, 0.44, 1);
 }
 #karachi_img {
-  background: url("../../assets/contact-images/uae.png");
+  background:linear-gradient(rgba(255, 255, 255, 0.5), rgb(7 5 5 / 97%)), url("https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1230&q=80");
   padding: 12px 12px;
   background-repeat: no-repeat;
   height: 168px !important;
@@ -36,7 +36,7 @@
   transition: all 0.5s cubic-bezier(0.165, 0.84, 0.44, 1);
 }
 #capital_img {
-  background: url("../../assets/contact-images/uk.png");
+  background: linear-gradient(rgba(255, 255, 255, 0.5), rgb(7 5 5 / 97%)),url("https://images.unsplash.com/photo-1560452992-e3c28ffc6432?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=916&q=80");
   background-repeat: no-repeat;
   padding: 12px 12px;
   background-size: cover;
@@ -77,6 +77,7 @@
   }
   #capital_img {
     width: 100%;
+    margin: 0px;
   }
   .background{
     width: 100%;
@@ -87,5 +88,8 @@
 }
 .main{
   padding-left: 0px;
+}
+.three{
+  margin: 0px !important;
 }
 }

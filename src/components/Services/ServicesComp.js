@@ -13,7 +13,7 @@ const ServicesComp = () => {
       </h1>
       <p className="text-center pt-40 fw-4 fs-18">
         We’re committed to helping businesses streamline workflow and enhance
-        customer <br />
+        customer <br className="no"/>
         experience with the following services.
       </p>
       <div className="services-container p-5">

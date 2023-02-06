@@ -1,10 +1,10 @@
 import React from "react";
 
 import Card from "../../UI/Card";
-import business from "../../assets/svg/business.svg";
-import finance from "../../assets/svg/finance.svg";
-import health from "../../assets/svg/health.svg";
-import cloud from "../../assets/svg/cloud.svg";
+import business from "../../assets/svg/business.png";
+import bank from "../../assets/svg/bank.png";
+import care from "../../assets/svg/care.png";
+import server from "../../assets/svg/server.png";
 import { Link } from "react-router-dom";
 
 const CardComp = () => {
@@ -15,7 +15,7 @@ const CardComp = () => {
           Ace Solutions Provides Full Range of <br />
           Software Services Your Company Needs
         </h2>
-        <p className="text-center py-3">
+        <p className="text-center px-4">
           ACE Technologies provides digital solutions and services, including
           product design, web and mobile development, business intelligence, and
           quality assurance to our clients that span across a wide range of
@@ -38,7 +38,7 @@ const CardComp = () => {
         <Link className="text-decoration-none w-100 mx-2" to={"/Health"}>
           <Card
             className={"card-width"}
-            src={health}
+            src={care}
             title={"Health"}
             detailes={
               "At ACE Technologies, We designed, developed and deployed many software solutions and you can also Improve the quality of your medical services and enhance management functions to make your workflows productive! We offer a full spectrum of software design and development services and solutions for all sectors of healthcare. We do it all! Our software solutions make a difference with the best UX."
@@ -53,8 +53,8 @@ const CardComp = () => {
         >
           <Card
             // className={"me-2 ms-2"}
-            src={finance}
-            title={"Finance & Banking"}
+            src={bank}
+            title={"Finance and Banking"}
             detailes={
               "We provide financial sector companies with customized fintech solutions to help them flourish in the turbulent market environment and develop an edge that sets them apart like no other. From mobile payments to peer-to-peer lending to AI-powered digital financial advisors, ZAPTA Technologies assists fintech startups and banks to provide unprecedented services while staying ahead."
             }
@@ -63,7 +63,7 @@ const CardComp = () => {
         <Link className="text-decoration-none mx-2 w-100" to={"/Cloud"}>
           <Card
             className={"card-width"}
-            src={cloud}
+            src={server}
             title={"Data"}
             detailes={
               "How can you determine what information is most valuable for your business? We use predictive analytics technologies that can be implemented into both software applications and business processes to get insights for better decision making. Our highly qualified team of professional statisticians, machine learning experts, and programmers who convert data into practical data-driven applications."

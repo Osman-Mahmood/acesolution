@@ -42,3 +42,30 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.first{
+  border-radius: 41% 112% 110% 103%/38% 124% 79% 63%;
+  filter: drop-shadow(21px 20px 10px #eff6fe);
+  height: 300px;
+  margin-bottom: 20px;
+}
+.second{
+  border-radius: 70% 151% 166% 9%/56% 113% 88% 21%;
+    filter: drop-shadow(-10px -10px 10px #eff6fe);
+    height: 300px;
+    margin-bottom: 20px;
+}
+.third{
+  border-radius: 70% 30% 30% 70%/60% 40% 60% 40%;
+  filter: drop-shadow(-10px -10px 10px #eff6fe);
+  height: 300px;
+  margin-bottom: 20px;
+}
+.icon{
+  color: #324894;
+}
+@media only screen and (max-width: 600px){
+  .first,.second,.third{
+    height: 250px !important;
+  }
+}

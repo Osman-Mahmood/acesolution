@@ -30,7 +30,7 @@ const ContactForm = () => {
   }
 
   return (
-    <div className="container-fluid p-lg-5 p-md-5 p-sm-5 py-5 main" id="contact">
+    <div className="container-fluid p-lg-5 p-md-5 p-sm-5 py-5 main">
       <div className="row" id="Call_book" >
         <div className="col-12">
           <h2 className="text-center" style={{marginTop:'-50px'}}>
@@ -48,40 +48,39 @@ const ContactForm = () => {
               <div className="row">
                 <div className="col-sm-12 mb-4 text-left" id="home_img">
                   <div className="pb-4 ms-2">
-                    <h4 className="text-white">Pakistan office</h4>
+                    <h4 className="text-white">New zeaLand office</h4>
                     <div className="address">
                       <div className=" contact-footer text-white">
-                        <h6 className="fs-14">Mughalpura Lahore, Pakistan</h6>
+                        <h6 className="fs-14">New zealand Aukland</h6>
                       </div>
                     </div>
                     <a className="address text-decoration-none" href="/">
                       <div className=" contact-footer text-white">
-                        <h6 className="fs-14">Info.pk@acesolution.com</h6>
+                        <h6 className="fs-14">Info.nz@acesolution.com</h6>
                       </div>
                     </a>
                   </div>
                 </div>
                 <div className="col fd_3 mb-3" id="karachi_img">
                   <div className="pb-4 ms-2">
-                    <h4 className="text-white">UAE Office</h4>
+                    <h4 className="text-white">Austrailia Office</h4>
                     <div className="address">
                       <div className="contact-footer">
                         <h6 className="fs-14 text-white">
-                          Q09, France cluster, international city Dubai, united
-                          Arab emirates
+                          Q09, France cluster, New Sydney
                         </h6>
                       </div>
                     </div>
                     <a className="address text-decoration-none" href="/">
                       <div className=" contact-footer">
                         <h6 className="fs-14 text-white ">
-                          info.uae@acesolution.com
+                          info.au@acesolution.com
                         </h6>
                       </div>
                     </a>
                   </div>
                 </div>
-                <div className="col" id="capital_img">
+                <div className="col mx-2 three" id="capital_img">
                   <div className="pb-4 ms-2">
                     <h4 className="text-white">UK Office</h4>
                     <div className="address">
@@ -104,7 +103,7 @@ const ContactForm = () => {
               </div>
             </div>
 
-            <div className="col-md-6 mt-5" id="Booking-form">
+            <div className="col-md-6 mt-5" id="contact">
               <div className="fdms-5">
                 <form className="row g-3 needs-validation" onSubmit={(event) => handleContactForm(event)}>
                   <div className="col-md-6">

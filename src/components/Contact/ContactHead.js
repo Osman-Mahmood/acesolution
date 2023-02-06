@@ -9,7 +9,7 @@ const ContactHead = () => {
           <div className="row">
             <div className="container text-center pt-5">
               <h1 className="">CONTACT US</h1>
-              <p className="clr-grey pt-1">
+              <p className="pt-1">
                 Get in touch for more information
               </p>
             </div>
@@ -70,7 +70,7 @@ const ContactHead = () => {
               <div className="card-body">
                 <a href="/" className="text-decoration-none stretched-link">
                   <h5 className="card-title text-center fs-18 clr-blue">
-                    03234307323
+                    +923234307323
                   </h5>
                 </a>
               </div>
@@ -103,7 +103,7 @@ const ContactHead = () => {
                   target="_blank"
                 >
                   <h5 className=" card-title text-center fs-18 clr-blue">
-                    Mughalpura Lahore, Pakistan
+                     Aukland, New ZeaLand
                   </h5>
                 </a>
               </div>
@@ -130,8 +130,8 @@ const ContactHead = () => {
                 </svg>
               </a>
               <div className="card-body">
-                <h5 className="card-title text-center fs-18 clr">
-                  Office Hours <br /> 10:00 AM - 07:00 PM (PKT)
+                <h5 className="card-title text-center">
+                  Office Hours <br /> 10:00 AM - 07:00 PM
                 </h5>
               </div>
             </div>
